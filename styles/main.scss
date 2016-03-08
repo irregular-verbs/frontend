@@ -41,6 +41,56 @@ html {
     }
 
 
+}
+
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    left: 0;
+    top: 0;
+
+    &__content {
+        background: white;
+        padding: 1rem;
+        border-radius: 0.25rem;
+        box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.5);
+    }
+}
+
+.word-modal {
+    display: flex;
+    flex-direction: column;
+
+    &__field {
+        display: flex;
+    }
+
+    &__title, &__value {
+        padding: 0.55rem 0.25rem;;
+    }
+
+    &__title {
+        display: flex;
+        flex: 1;
+        justify-content: flex-end;
+        font-weight: bold;
+
+        &:after {
+            content: ":";
+        }
+    }
+
+    &__value {
+        display: flex;
+        flex: 1;
+    }
 
 }
+
+
 

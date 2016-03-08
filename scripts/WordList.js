@@ -7,9 +7,9 @@
  * Created: 05.03.2016 17:51
  */
 import React from 'react'
-
 import {h} from 'react-markup'
 
+import WordPopup from './WordPopup'
 
 export default React.createClass({
 
@@ -17,6 +17,7 @@ export default React.createClass({
         return {
             sortField: "top",
             sortDirection: 1,
+            currentWordId: null
         }
     },
 
@@ -26,7 +27,7 @@ export default React.createClass({
         )))
     },
 
-    headerClick: function(newField) {
+    onHeaderClick: function(newField) {
         const {sortField,sortDirection} = this.state
         this.setState({
             sortField: newField,
@@ -34,24 +35,47 @@ export default React.createClass({
         })
     },
 
+    onWordClick: function(wordId) {
+        this.setState({
+            currentWordId: wordId
+        })
+    },
+
+    onCloseCurrentWordModal: function() {
+        this.setState({
+            currentWordId: null
+        })
+    },
+
     renderHeaderTitle: function(field, title) {
         const {sortField,sortDirection} = this.state
-        var newTitle = title + ((field === sortField) ? (sortDirection > 0 ? "↓" : "↑") : "")
-        return h("div.word-list__cell", {onClick:() => {this.headerClick(field)}}, newTitle )
+        const newTitle = title + ((field === sortField) ? (sortDirection > 0 ? "↓" : "↑") : "")
+        return h("div.word-list__cell", {onClick:() => {this.onHeaderClick(field)}}, newTitle )
     },
 
     render: function () {
+        window.React = React;
+
         const {data} = this.props
-        const {sortField,sortDirection} = this.state
+        const {sortField,sortDirection, currentWordId} = this.state
 
         const sortedData = data.slice().sort((x,y) => {
-            var result = x[sortField] > y[sortField] ? 1 : x[sortField] < y[sortField] ? -1 : 0;
+            let result = x[sortField] > y[sortField] ? 1 : x[sortField] < y[sortField] ? -1 : 0;
             result *= sortDirection
             return result
         })
 
+        let currentWordModal = null
+        if(currentWordId !== null) {
+            const currentWord = data.filter(x => x.top === currentWordId);
+            if(currentWord.length > 0) {
+                currentWordModal = h(WordPopup, {word:currentWord[0],onClose:this.onCloseCurrentWordModal})
+            }
+        }
+
         return (
             h("div.word-list",
+                currentWordModal,
                 h("div.word-list__header",
                     this.renderHeaderTitle('top', "TOP"),
                     this.renderHeaderTitle('form1', "Form 1"),
@@ -62,7 +86,11 @@ export default React.createClass({
                     this.renderHeaderTitle('translation', "Translation")
                 ),
                 sortedData.map(row => (
-                    h(`div.word-list__row`, {key: row.top},
+                    h(`div`, {
+                        key: row.top,
+                        onClick: () => this.onWordClick(row.top),
+                        className: "word-list__row" + (row.top === currentWordId ? " selected" : "")
+                    },
                         h("div.word-list__cell.word__top", row.top),
                         h("div.word-list__cell.word__form1", this.renderWordForm(row.form1)),
                         h("div.word-list__cell.word__form2", this.renderWordForm(row.form2)),
@@ -75,4 +103,5 @@ export default React.createClass({
             )
         )
     }
+
 })
