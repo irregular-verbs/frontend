@@ -6,12 +6,16 @@
  *
  * Created: 04.03.2016 22:18
  */
+import React from 'react'
 import ReactDOM from 'react-dom'
-import {h1} from 'react-hyperscript-helpers'
+import {h} from 'react-markup'
+
+import data from './data'
+import WordList from './WordList'
 
 document.addEventListener('DOMContentLoaded', () => {
     ReactDOM.render(
-        h1("Hello world"),
+        h(WordList, {"data":data}),
         document.getElementById('react')
     )
 });

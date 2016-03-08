@@ -15,7 +15,6 @@
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
     "gulp-envify": "^1.0.0",
-    "gulp-manifest": "^0.1.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.1.0",
     "gulp-serve": "^1.2.0",
@@ -33,7 +32,7 @@
     "es6-promise": "^3.0.2",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
-    "react-hyperscript-helpers": "^1.0.1"
+    "react-markup": "^1.0.0"
   },
   "gulp": {
     "src": {

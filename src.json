@@ -1,0 +1,8296 @@
+[
+  {
+    "number": 1,
+    "top": 114,
+    "translation": "будить, просыпаться; пробуждать(ся)",
+    "form1": [
+      {
+        "word": "awake",
+        "top500": true,
+        "top1000": false,
+        "percent": "82%",
+        "ipa": "q'weIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "awoke",
+        "top500": true,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "q'wouk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "awoke",
+        "top500": true,
+        "top1000": false,
+        "ipa": "q'wouk",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "awoken",
+        "top500": true,
+        "top1000": false,
+        "percent": "0,5%",
+        "ipa": "q'woukn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "awaking",
+        "top500": true,
+        "top1000": false,
+        "percent": "0,3%",
+        "ipa": "q'weIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "awakes",
+        "top500": true,
+        "top1000": false,
+        "percent": "2,2%",
+        "ipa": "q'weIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 2,
+    "top": 1,
+    "translation": "быть; находиться",
+    "form1": [
+      {
+        "word": "be",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "bJ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "was",
+        "top500": true,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "wOz",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "were",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "wW",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "been",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "bJn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "being",
+        "top500": true,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "'bJIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "is",
+        "top500": true,
+        "top1000": true,
+        "ipa": "[Iz]",
+        "percent": "43%",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "am",
+        "top500": true,
+        "top1000": true,
+        "ipa": "[xm]",
+        "percent": "5%",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "are",
+        "top500": true,
+        "top1000": true,
+        "ipa": "[R]",
+        "percent": "11%",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 3,
+    "top": 88,
+    "translation": "1) носить; рождать (born);\n\t\t\n\t\t\n\t\t2) \n\t\tn- \n\t\tмедведь",
+    "form1": [
+      {
+        "word": "bear",
+        "top500": false,
+        "top1000": true,
+        "percent": "52%",
+        "ipa": "bFq",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bore",
+        "top500": false,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "bL",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "borne",
+        "top500": false,
+        "top1000": true,
+        "ipa": "3 % [bL n",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "born",
+        "top500": false,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "bL n",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "bearing",
+        "top500": false,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "'bFqrIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "bears",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "bFqz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 4,
+    "top": 38,
+    "translation": "бить(ся), ударять; \n\t\t(n- \n\t\tритм)",
+    "form1": [
+      {
+        "word": "beat",
+        "top500": true,
+        "top1000": true,
+        "percent": "83%",
+        "ipa": "bJt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "beat",
+        "top500": true,
+        "top1000": true,
+        "ipa": "bJt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "beaten",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "bJtn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "beating",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "'bJtIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "beats",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "bJts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 5,
+    "top": 55,
+    "translation": "становиться, делаться",
+    "form1": [
+      {
+        "word": "become",
+        "top500": true,
+        "top1000": true,
+        "percent": "41%",
+        "ipa": "bI'kAm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "became",
+        "top500": true,
+        "top1000": true,
+        "percent": "33%",
+        "ipa": "bI'keIm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "become",
+        "top500": true,
+        "top1000": true,
+        "ipa": "bI'kAm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "becoming",
+        "top500": true,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "bI'kAmIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "becomes",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "bI'kAmz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 6,
+    "top": 29,
+    "translation": "начинать(ся); приступать \n\t\t(к)",
+    "form1": [
+      {
+        "word": "begin",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "bI'gIn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "began",
+        "top500": true,
+        "top1000": true,
+        "percent": "42%",
+        "ipa": "bI'gxn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "begun",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "bI'gAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "beginning",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "be'gInIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "begins",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "bI'gInz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 7,
+    "top": 91,
+    "translation": "гнуть(ся), сгибать(ся)",
+    "form1": [
+      {
+        "word": "bend",
+        "top500": false,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "bend",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bent",
+        "top500": false,
+        "top1000": true,
+        "percent": "50%",
+        "ipa": "bent",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "bent",
+        "top500": false,
+        "top1000": true,
+        "ipa": "bent",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "bending",
+        "top500": false,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "'bendIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "bends",
+        "top500": false,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "bendz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 8,
+    "top": 102,
+    "translation": "держать пари, спорить",
+    "form1": [
+      {
+        "word": "bet",
+        "top500": true,
+        "top1000": false,
+        "percent": "83%",
+        "ipa": "bet",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bet",
+        "top500": true,
+        "top1000": false,
+        "ipa": "bet",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "bet",
+        "top500": true,
+        "top1000": false,
+        "ipa": "bet",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "betting",
+        "top500": true,
+        "top1000": false,
+        "percent": "10%",
+        "ipa": "'betIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "bets",
+        "top500": true,
+        "top1000": false,
+        "percent": "7%",
+        "ipa": "bets",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 9,
+    "top": 134,
+    "translation": "связывать; привязывать",
+    "form1": [
+      {
+        "word": "bind",
+        "top500": false,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "baInd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bound",
+        "top500": false,
+        "top1000": false,
+        "percent": "55%",
+        "ipa": "baund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "bound",
+        "top500": false,
+        "top1000": false,
+        "ipa": "baund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "binding",
+        "top500": false,
+        "top1000": false,
+        "percent": "26%",
+        "ipa": "'baIndIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "binds",
+        "top500": false,
+        "top1000": false,
+        "percent": "4%",
+        "ipa": "baIndz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 10,
+    "top": 97,
+    "translation": "кусать(ся); (n- \n\t\tукус)",
+    "form1": [
+      {
+        "word": "bite",
+        "top500": false,
+        "top1000": true,
+        "percent": "36%",
+        "ipa": "baIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bit",
+        "top500": false,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "bIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "bitten",
+        "top500": false,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "bItn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "biting",
+        "top500": false,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "'baItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "bites",
+        "top500": false,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "baIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 11,
+    "top": 120,
+    "translation": "кровоточить; истекать \n\t\tкров.",
+    "form1": [
+      {
+        "word": "bleed",
+        "top500": false,
+        "top1000": false,
+        "percent": "18%",
+        "ipa": "blJd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bled",
+        "top500": false,
+        "top1000": false,
+        "percent": "10%",
+        "ipa": "bled",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "bled",
+        "top500": false,
+        "top1000": false,
+        "ipa": "bled",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "bleeding",
+        "top500": false,
+        "top1000": false,
+        "percent": "67%",
+        "ipa": "'blJdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "bleeds",
+        "top500": false,
+        "top1000": false,
+        "percent": "5%",
+        "ipa": "blJdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 12,
+    "top": 66,
+    "translation": "дуть, раздувать; \n\t\t(n- \n\t\t \n\t\tудар)",
+    "form1": [
+      {
+        "word": "blow",
+        "top500": true,
+        "top1000": true,
+        "percent": "37%",
+        "ipa": "blou",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "blew",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "blH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "blown",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "bloun",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "blowing",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "'blouIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "blows",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "blouz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 13,
+    "top": 33,
+    "translation": "ломать(ся); (n- \n\t\tперерыв)",
+    "form1": [
+      {
+        "word": "break",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "breIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "broke",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "brouk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "broken",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "broukn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "breaking",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "'breIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "breaks",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "breIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 14,
+    "top": 40,
+    "translation": "приносить, привозить",
+    "form1": [
+      {
+        "word": "bring",
+        "top500": true,
+        "top1000": true,
+        "percent": "38%",
+        "ipa": "brIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "brought",
+        "top500": true,
+        "top1000": true,
+        "percent": "42%",
+        "ipa": "brL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "brought",
+        "top500": true,
+        "top1000": true,
+        "ipa": "brL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "bringing",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "'brININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "brings",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "brINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 15,
+    "top": 37,
+    "translation": "строить; (building n- \n\t\tстроение)",
+    "form1": [
+      {
+        "word": "build",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "bIld",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "built",
+        "top500": true,
+        "top1000": true,
+        "percent": "17,5%",
+        "ipa": "bIlt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "built",
+        "top500": true,
+        "top1000": true,
+        "ipa": "bIlt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "building",
+        "top500": true,
+        "top1000": true,
+        "percent": "72%",
+        "ipa": "'bIldIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "builds",
+        "top500": true,
+        "top1000": true,
+        "percent": "1,5%",
+        "ipa": "bIldz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 16,
+    "top": 72,
+    "translation": "жечь, обжигать; гореть",
+    "form1": [
+      {
+        "word": "burn",
+        "top500": false,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "bW n",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "burnt",
+        "top500": false,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "bW ",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "burned",
+        "top500": false,
+        "top1000": true,
+        "percent": "26%",
+        "ipa": "bW ",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form3": [
+      {
+        "word": "burnt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "bW nt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "burned",
+        "top500": false,
+        "top1000": true,
+        "ipa": "bW nd",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "burning",
+        "top500": false,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "'bW nIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "burns",
+        "top500": false,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "bW nz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 17,
+    "top": 94,
+    "translation": "взрываться;(n- взрыв)",
+    "form1": [
+      {
+        "word": "burst",
+        "top500": false,
+        "top1000": true,
+        "percent": "60%",
+        "ipa": "bW st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "burst",
+        "top500": false,
+        "top1000": true,
+        "ipa": "bW st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "burst",
+        "top500": false,
+        "top1000": true,
+        "ipa": "bW st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "bursting",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'bW stIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "bursts",
+        "top500": false,
+        "top1000": true,
+        "percent": "30%",
+        "ipa": "bW sts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 18,
+    "top": 79,
+    "translation": "покупать",
+    "form1": [
+      {
+        "word": "buy",
+        "top500": false,
+        "top1000": true,
+        "percent": "49%",
+        "ipa": "baI",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "bought",
+        "top500": false,
+        "top1000": true,
+        "percent": "36%",
+        "ipa": "bLt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "bought",
+        "top500": false,
+        "top1000": true,
+        "ipa": "bLt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "buying",
+        "top500": false,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "'baIIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "buys",
+        "top500": false,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "baIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 19,
+    "top": 112,
+    "translation": "бросать, кидать",
+    "form1": [
+      {
+        "word": "cast",
+        "top500": true,
+        "top1000": false,
+        "percent": "72%",
+        "ipa": "kR st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "cast",
+        "top500": true,
+        "top1000": false,
+        "ipa": "kR st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "cast",
+        "top500": true,
+        "top1000": false,
+        "ipa": "kR st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "casting",
+        "top500": true,
+        "top1000": false,
+        "percent": "17%",
+        "ipa": "'kR stIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "casts",
+        "top500": true,
+        "top1000": false,
+        "percent": "11%",
+        "ipa": "kR sts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 20,
+    "top": 44,
+    "translation": "ловить, поймать",
+    "form1": [
+      {
+        "word": "catch",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "kxC",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "caught",
+        "top500": true,
+        "top1000": true,
+        "percent": "47%",
+        "ipa": "kL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "caught",
+        "top500": true,
+        "top1000": true,
+        "ipa": "kL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "catching",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "'kxCIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "catches",
+        "top500": true,
+        "top1000": true,
+        "percent": "16%",
+        "ipa": "'kxCIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 21,
+    "top": 107,
+    "translation": "выбирать; избирать",
+    "form1": [
+      {
+        "word": "choose",
+        "top500": true,
+        "top1000": false,
+        "percent": "32%",
+        "ipa": "CHz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "chose",
+        "top500": true,
+        "top1000": false,
+        "percent": "25%",
+        "ipa": "Couz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "chosen",
+        "top500": true,
+        "top1000": false,
+        "percent": "31%",
+        "ipa": "'Couzn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "choosing",
+        "top500": true,
+        "top1000": false,
+        "percent": "7%",
+        "ipa": "'CHzIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "chooses",
+        "top500": true,
+        "top1000": false,
+        "percent": "5%",
+        "ipa": "'CHzIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 22,
+    "top": 127,
+    "translation": "прилипать, цепляться",
+    "form1": [
+      {
+        "word": "cling",
+        "top500": false,
+        "top1000": false,
+        "percent": "14%",
+        "ipa": "klIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "clung",
+        "top500": false,
+        "top1000": false,
+        "percent": "31%",
+        "ipa": "klAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "clung",
+        "top500": false,
+        "top1000": false,
+        "ipa": "klAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "clinging",
+        "top500": false,
+        "top1000": false,
+        "percent": "39%",
+        "ipa": "'klININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "clings",
+        "top500": false,
+        "top1000": false,
+        "percent": "16%",
+        "ipa": "klINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 23,
+    "top": 9,
+    "translation": "приходить, приезжать",
+    "form1": [
+      {
+        "word": "come",
+        "top500": true,
+        "top1000": true,
+        "percent": "43%",
+        "ipa": "kAm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "came",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "keIm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "come",
+        "top500": true,
+        "top1000": true,
+        "ipa": "kAm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "coming",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "'kAmIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "comes",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "kAmz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 24,
+    "top": 118,
+    "translation": "стоить; (n- \n\t\tцена)",
+    "form1": [
+      {
+        "word": "cost",
+        "top500": false,
+        "top1000": false,
+        "percent": "78%",
+        "ipa": "kO ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "cost",
+        "top500": false,
+        "top1000": false,
+        "ipa": "kO st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "cost",
+        "top500": false,
+        "top1000": false,
+        "ipa": "kO st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "costing",
+        "top500": false,
+        "top1000": false,
+        "percent": "3%",
+        "ipa": "'kO ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "costs",
+        "top500": false,
+        "top1000": false,
+        "percent": "19%",
+        "ipa": "kO ",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 25,
+    "top": 122,
+    "translation": "ползать, ползти; красться",
+    "form1": [
+      {
+        "word": "creep",
+        "top500": false,
+        "top1000": false,
+        "percent": "25%",
+        "ipa": "krJp",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "crept",
+        "top500": false,
+        "top1000": false,
+        "percent": "32%",
+        "ipa": "krept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "crept",
+        "top500": false,
+        "top1000": false,
+        "ipa": "krept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "creeping",
+        "top500": false,
+        "top1000": false,
+        "percent": "22%",
+        "ipa": "'krJpIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "creeps",
+        "top500": false,
+        "top1000": false,
+        "percent": "21%",
+        "ipa": "krJps",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 26,
+    "top": 26,
+    "translation": "резать; снижать",
+    "form1": [
+      {
+        "word": "cut",
+        "top500": true,
+        "top1000": true,
+        "percent": "88%",
+        "ipa": "kAt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "cut",
+        "top500": true,
+        "top1000": true,
+        "ipa": "kAt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "cut",
+        "top500": true,
+        "top1000": true,
+        "ipa": "kAt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "cutting",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "'kAtIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "cuts",
+        "top500": true,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "kAts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 27,
+    "top": 75,
+    "translation": "n- доля; реже v-\n\t\t\n\t\tраздавать",
+    "form1": [
+      {
+        "word": "deal",
+        "top500": false,
+        "top1000": true,
+        "percent": "75%",
+        "ipa": "dJl",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "dealt",
+        "top500": false,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "delt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "dealt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "delt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "dealing",
+        "top500": false,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "'dJlIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "deals",
+        "top500": false,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "dJlz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 28,
+    "top": 100,
+    "translation": "рыть(ся), копать(ся)",
+    "form1": [
+      {
+        "word": "dig",
+        "top500": false,
+        "top1000": true,
+        "percent": "31%",
+        "ipa": "dIg",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "dug",
+        "top500": false,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "dAg",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "dug",
+        "top500": false,
+        "top1000": true,
+        "ipa": "dAg",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "digging",
+        "top500": false,
+        "top1000": true,
+        "percent": "26%",
+        "ipa": "'dIgIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "digs",
+        "top500": false,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "dIgz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 29,
+    "top": 3,
+    "translation": "делать; вспом. глагол и др.",
+    "form1": [
+      {
+        "word": "do",
+        "top500": true,
+        "top1000": true,
+        "percent": "54%",
+        "ipa": "dH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "did",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "dId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "done",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "dAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "doing",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "'dHIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "does",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "dAz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 30,
+    "top": 60,
+    "translation": "тянуть; чертить \n\t\tрисовать",
+    "form1": [
+      {
+        "word": "draw",
+        "top500": true,
+        "top1000": true,
+        "percent": "16%",
+        "ipa": "drL",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "drew",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "drH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "drawn",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "drL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "drawing",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "'drL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "draws",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "drL ",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 31,
+    "top": 82,
+    "translation": "мечтать; видеть во сне; \n\t\t(n- \n\t\tмечта; сон)",
+    "form1": [
+      {
+        "word": "dream",
+        "top500": false,
+        "top1000": true,
+        "percent": "53%",
+        "ipa": "drJm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "dreamt",
+        "top500": false,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "dremt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "dreamed",
+        "top500": false,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "drJmd",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form3": [
+      {
+        "word": "dreamt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "dremt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "dreamed",
+        "top500": false,
+        "top1000": true,
+        "ipa": "drJmd",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "dreaming",
+        "top500": false,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "'drJmIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "dreams",
+        "top500": false,
+        "top1000": true,
+        "percent": "26%",
+        "ipa": "drJmz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 32,
+    "top": 52,
+    "translation": "пить; (n- \n\t\tпитье)",
+    "form1": [
+      {
+        "word": "drink",
+        "top500": true,
+        "top1000": true,
+        "percent": "52%",
+        "ipa": "drINk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "drank",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "drxNk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "drunk",
+        "top500": true,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "drANk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "drinking",
+        "top500": true,
+        "top1000": true,
+        "percent": "18%",
+        "ipa": "'drINkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "drinks",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "drINks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 33,
+    "top": 39,
+    "translation": "везти; вести (машину)",
+    "form1": [
+      {
+        "word": "drive",
+        "top500": true,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "draIv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "drove",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "drouv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "driven",
+        "top500": true,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "'drIvn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "driving",
+        "top500": true,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "'draIvIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "drives",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "draIvz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 34,
+    "top": 63,
+    "translation": "есть, питаться",
+    "form1": [
+      {
+        "word": "eat",
+        "top500": true,
+        "top1000": true,
+        "percent": "44%",
+        "ipa": "Jt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "ate",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "et",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "eaten",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "'Jtn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "eating",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "'JtIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "eats",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "Jts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 35,
+    "top": 30,
+    "translation": "падать; (n- \n\t\tпаде­ние; ам.- осень)",
+    "form1": [
+      {
+        "word": "fall",
+        "top500": true,
+        "top1000": true,
+        "percent": "24%",
+        "ipa": "fL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "fell",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "fel",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "fallen",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'fL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "falling",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "'fL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "falls",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "fL ",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 36,
+    "top": 104,
+    "translation": "кормить(ся); (n- \n\t\tеда)",
+    "form1": [
+      {
+        "word": "feed",
+        "top500": true,
+        "top1000": false,
+        "percent": "39%",
+        "ipa": "fJd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "fed",
+        "top500": true,
+        "top1000": false,
+        "percent": "35%",
+        "ipa": "fed",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "fed",
+        "top500": true,
+        "top1000": false,
+        "ipa": "fed",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "feeding",
+        "top500": true,
+        "top1000": false,
+        "percent": "19%",
+        "ipa": "'fJdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "feeds",
+        "top500": true,
+        "top1000": false,
+        "percent": "7%",
+        "ipa": "fJdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 37,
+    "top": 21,
+    "translation": "чувствовать; ощущать",
+    "form1": [
+      {
+        "word": "feel",
+        "top500": true,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "fJl",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "felt",
+        "top500": true,
+        "top1000": true,
+        "percent": "39%",
+        "ipa": "felt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "felt",
+        "top500": true,
+        "top1000": true,
+        "ipa": "felt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "feeling",
+        "top500": true,
+        "top1000": true,
+        "percent": "21%",
+        "ipa": "'fJlIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "feels",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "fJlz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 38,
+    "top": 62,
+    "translation": "бороться; (n- \n\t\tбой, драка)",
+    "form1": [
+      {
+        "word": "fight",
+        "top500": true,
+        "top1000": true,
+        "percent": "50%",
+        "ipa": "faIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "fought",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "fL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "fought",
+        "top500": true,
+        "top1000": true,
+        "ipa": "fL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "fighting",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "'faItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "fights",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "faIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 39,
+    "top": 16,
+    "translation": "находить, обнаруживать",
+    "form1": [
+      {
+        "word": "find",
+        "top500": true,
+        "top1000": true,
+        "percent": "49%",
+        "ipa": "faInd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "found",
+        "top500": true,
+        "top1000": true,
+        "percent": "40%",
+        "ipa": "faund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "found",
+        "top500": true,
+        "top1000": true,
+        "ipa": "faund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "finding",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "'faIndIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "finds",
+        "top500": true,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "faIndz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 40,
+    "top": 130,
+    "translation": "бежать, спас. бегством",
+    "form1": [
+      {
+        "word": "flee",
+        "top500": false,
+        "top1000": false,
+        "percent": "29%",
+        "ipa": "flJ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "fled",
+        "top500": false,
+        "top1000": false,
+        "percent": "38%",
+        "ipa": "fled",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "fled",
+        "top500": false,
+        "top1000": false,
+        "ipa": "fled",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "fleeing",
+        "top500": false,
+        "top1000": false,
+        "percent": "24%",
+        "ipa": "'flJIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "flees",
+        "top500": false,
+        "top1000": false,
+        "percent": "9%",
+        "ipa": "flJz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 41,
+    "top": 125,
+    "translation": "бросать, метать; послать",
+    "form1": [
+      {
+        "word": "fling",
+        "top500": false,
+        "top1000": false,
+        "percent": "8%",
+        "ipa": "flIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "flung",
+        "top500": false,
+        "top1000": false,
+        "percent": "54%",
+        "ipa": "flAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "flung",
+        "top500": false,
+        "top1000": false,
+        "ipa": "flAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "flinging",
+        "top500": false,
+        "top1000": false,
+        "percent": "9%",
+        "ipa": "'flININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "flings",
+        "top500": false,
+        "top1000": false,
+        "percent": "29%",
+        "ipa": "flINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 42,
+    "top": 59,
+    "translation": "лететь; (n-\n\t\t\n\t\tмуха)",
+    "form1": [
+      {
+        "word": "fly",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "flaI",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "flew",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "flH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "flown",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "floun",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "flying",
+        "top500": true,
+        "top1000": true,
+        "percent": "35%",
+        "ipa": "'flaIIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "flies",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "flaIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 43,
+    "top": 69,
+    "translation": "забывать, не помнить",
+    "form1": [
+      {
+        "word": "forget",
+        "top500": true,
+        "top1000": true,
+        "percent": "54%",
+        "ipa": "fq'get",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "forgot",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "fq'gOt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "forgotten",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "fq'gOtn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "forgetting",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "fq'getIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "forgets",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "fq'gets",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 44,
+    "top": 128,
+    "translation": "прощать",
+    "form1": [
+      {
+        "word": "forgive",
+        "top500": false,
+        "top1000": false,
+        "percent": "81%",
+        "ipa": "fq'gIv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "forgave",
+        "top500": false,
+        "top1000": false,
+        "percent": "3%",
+        "ipa": "fq'geIv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "forgiven",
+        "top500": false,
+        "top1000": false,
+        "percent": "12%",
+        "ipa": "fq'gIvn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "forgiving",
+        "top500": false,
+        "top1000": false,
+        "percent": "3%",
+        "ipa": "fq'gIvIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "forgives",
+        "top500": false,
+        "top1000": false,
+        "percent": "1%",
+        "ipa": "fq'gIvz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 45,
+    "top": 83,
+    "translation": "замерзать; заморажи­вать",
+    "form1": [
+      {
+        "word": "freeze",
+        "top500": false,
+        "top1000": true,
+        "percent": "24%",
+        "ipa": "frJz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "froze",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "frouz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "frozen",
+        "top500": false,
+        "top1000": true,
+        "percent": "40%",
+        "ipa": "frouzn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "freezing",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'frJzIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "freezes",
+        "top500": false,
+        "top1000": true,
+        "percent": "16%",
+        "ipa": "'frJzIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 46,
+    "top": 6,
+    "translation": "получать; приобретать; \n\t\tпонимать",
+    "form1": [
+      {
+        "word": "get",
+        "top500": true,
+        "top1000": true,
+        "percent": "46%",
+        "ipa": "get",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "got",
+        "top500": true,
+        "top1000": true,
+        "percent": "36%",
+        "ipa": "gOt, ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "got; \n\t\t ам.\n\t\t\n\t\tуст.\n\t\t\n\t\tgotten",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "gOtn",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "getting",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "'getIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "gets",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "gets",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 47,
+    "top": 14,
+    "translation": "давать, передавать",
+    "form1": [
+      {
+        "word": "give",
+        "top500": true,
+        "top1000": true,
+        "percent": "42%",
+        "ipa": "gIv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "gave",
+        "top500": true,
+        "top1000": true,
+        "percent": "26%",
+        "ipa": "geIv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "given",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "gIvn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "giving",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "gIvIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "gives",
+        "top500": true,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "gIvz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 48,
+    "top": 5,
+    "translation": "идти; ехать;\n\t\t\n\t\tуходить, уезжать",
+    "form1": [
+      {
+        "word": "go",
+        "top500": true,
+        "top1000": true,
+        "percent": "35%",
+        "ipa": "gou",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "went",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "went",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "gone",
+        "top500": true,
+        "top1000": true,
+        "ipa": "gOn, ам. gAn",
+        "percent": "9%",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "going",
+        "top500": true,
+        "top1000": true,
+        "percent": "31%",
+        "ipa": "'go(u)IN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "goes",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "gouz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 49,
+    "top": 132,
+    "translation": "молоть; точить; \n\t\t(ground \n\t\tтакже – земля)",
+    "form1": [
+      {
+        "word": "grind",
+        "top500": false,
+        "top1000": false,
+        "percent": "17%",
+        "ipa": "graInd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "ground",
+        "top500": false,
+        "top1000": false,
+        "percent": "28%",
+        "ipa": "graund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "ground",
+        "top500": false,
+        "top1000": false,
+        "ipa": "graund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "grinding",
+        "top500": false,
+        "top1000": false,
+        "percent": "39%",
+        "ipa": "'graIndIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "grinds",
+        "top500": false,
+        "top1000": false,
+        "percent": "16%",
+        "ipa": "graIndz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 50,
+    "top": 71,
+    "translation": "расти; увеличиваться",
+    "form1": [
+      {
+        "word": "grow",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "grou",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "grew",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "grH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "grown",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "groun",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "growing",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "'grouIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "grows",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "grouz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 51,
+    "top": 51,
+    "translation": "1) висеть,\n\t\t\n\t\tвешать;\n\t\t\n\t\t\n\t\t2) \n\t\tвешать \n\t\t(казнить)",
+    "form1": [
+      {
+        "word": "hang",
+        "top500": true,
+        "top1000": true,
+        "percent": "21%",
+        "ipa": "hxN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": " \n\t\thung",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "hAN",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": " \n\t\thanged",
+        "top500": true,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "hxNd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": " \n\t\thung",
+        "top500": true,
+        "top1000": true,
+        "ipa": "hAN",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": " \n\t\thanged",
+        "top500": true,
+        "top1000": true,
+        "ipa": "hxNd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "hanging",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "'hxNIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "hangs",
+        "top500": true,
+        "top1000": true,
+        "percent": "21%",
+        "ipa": "hxNz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 52,
+    "top": 2,
+    "translation": "иметь; быть должным",
+    "form1": [
+      {
+        "word": "have",
+        "top500": true,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "hxv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "had",
+        "top500": true,
+        "top1000": true,
+        "percent": "41%",
+        "ipa": "hxd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "had",
+        "top500": true,
+        "top1000": true,
+        "ipa": "hxd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "having",
+        "top500": true,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "'hxvIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "has",
+        "top500": true,
+        "top1000": true,
+        "percent": "26%",
+        "ipa": "hxz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 53,
+    "top": 17,
+    "translation": "слышать; слушать",
+    "form1": [
+      {
+        "word": "hear",
+        "top500": true,
+        "top1000": true,
+        "percent": "45%",
+        "ipa": "hIq",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "heard",
+        "top500": true,
+        "top1000": true,
+        "percent": "44%",
+        "ipa": "hW ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "heard",
+        "top500": true,
+        "top1000": true,
+        "ipa": "hW d",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "hearing",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "'hIqrIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "hears",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "hIqz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 54,
+    "top": 74,
+    "translation": "прятать(ся); скрывать(ся)",
+    "form1": [
+      {
+        "word": "hide",
+        "top500": false,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "haId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "hid",
+        "top500": false,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "hId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "hidden,\n\t\thid",
+        "top500": false,
+        "top1000": true,
+        "percent": "31%",
+        "ipa": "hIdn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "hiding",
+        "top500": false,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "'haIdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "hides",
+        "top500": false,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "haIdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 55,
+    "top": 50,
+    "translation": "ударять, попадать; \n\t\t \n\t\t(n- \n\t\tудар)",
+    "form1": [
+      {
+        "word": "hit",
+        "top500": true,
+        "top1000": true,
+        "percent": "61%",
+        "ipa": "hIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "hit",
+        "top500": true,
+        "top1000": true,
+        "ipa": "hIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "hit",
+        "top500": true,
+        "top1000": true,
+        "ipa": "hIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "hitting",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'hItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "hits",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "hIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 56,
+    "top": 22,
+    "translation": "держать; владеть; вмещать",
+    "form1": [
+      {
+        "word": "hold",
+        "top500": true,
+        "top1000": true,
+        "percent": "30%",
+        "ipa": "hould",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "held",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "held",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "held",
+        "top500": true,
+        "top1000": true,
+        "ipa": "held",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "holding",
+        "top500": true,
+        "top1000": true,
+        "percent": "26%",
+        "ipa": "'houldIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "holds",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "houldz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 57,
+    "top": 78,
+    "translation": "ушибить, причинять боль",
+    "form1": [
+      {
+        "word": "hurt",
+        "top500": false,
+        "top1000": true,
+        "percent": "84%",
+        "ipa": "hW t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "hurt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "hW t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "hurt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "hW t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "hurting",
+        "top500": false,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "'hW tIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "hurts",
+        "top500": false,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "hW ts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 58,
+    "top": 28,
+    "translation": "содержать, хранить",
+    "form1": [
+      {
+        "word": "keep",
+        "top500": true,
+        "top1000": true,
+        "percent": "56%",
+        "ipa": "kJp",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "kept",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "kept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "kept",
+        "top500": true,
+        "top1000": true,
+        "ipa": "kept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "keeping",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "'kJpIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "keeps",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "kJps",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 59,
+    "top": 111,
+    "translation": "становиться на колени, \n\t\tстоять на коленях",
+    "form1": [
+      {
+        "word": "kneel",
+        "top500": true,
+        "top1000": false,
+        "percent": "9%",
+        "ipa": "nJl",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "knelt",
+        "top500": true,
+        "top1000": false,
+        "percent": "29%",
+        "ipa": "nelt",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "kneeled",
+        "top500": true,
+        "top1000": false,
+        "percent": "1%",
+        "ipa": "nJld",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "knelt",
+        "top500": true,
+        "top1000": false,
+        "ipa": "nelt",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "kneeled",
+        "top500": true,
+        "top1000": false,
+        "ipa": "nJld",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "kneeling",
+        "top500": true,
+        "top1000": false,
+        "percent": "27%",
+        "ipa": "'nJlIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "kneels",
+        "top500": true,
+        "top1000": false,
+        "percent": "34%",
+        "ipa": "nJlz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 60,
+    "top": 7,
+    "translation": "знать",
+    "form1": [
+      {
+        "word": "know",
+        "top500": true,
+        "top1000": true,
+        "percent": "70%",
+        "ipa": "nou",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "knew",
+        "top500": true,
+        "top1000": true,
+        "percent": "18%",
+        "ipa": "njH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "known",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "noun",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "knowing",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "'nouIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "knows",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "nouz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 61,
+    "top": 73,
+    "translation": "класть, положить",
+    "form1": [
+      {
+        "word": "lay",
+        "top500": false,
+        "top1000": true,
+        "percent": "46%",
+        "ipa": "leI",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "laid",
+        "top500": false,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "leId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "laid",
+        "top500": false,
+        "top1000": true,
+        "ipa": "leId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "laying",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'leIIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "lays",
+        "top500": false,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "leIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 62,
+    "top": 54,
+    "translation": "вести, руководить",
+    "form1": [
+      {
+        "word": "lead",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "lJd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "led",
+        "top500": true,
+        "top1000": true,
+        "percent": "33%",
+        "ipa": "led",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "led",
+        "top500": true,
+        "top1000": true,
+        "ipa": "led",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "leading",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "'lJdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "leads",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "lJdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 63,
+    "top": 96,
+    "translation": "прыгать, перепрыгивать; \n\t\t(n- \n\t\tпрыжок, скачок)",
+    "form1": [
+      {
+        "word": "leap",
+        "top500": false,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "lJp",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "leapt",
+        "top500": false,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "lept",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "leaped",
+        "top500": false,
+        "top1000": true,
+        "percent": "18%",
+        "ipa": "lept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "leapt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "lept",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "leaped",
+        "top500": false,
+        "top1000": true,
+        "ipa": "lept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "leaping",
+        "top500": false,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "'lJpIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "leaps",
+        "top500": false,
+        "top1000": true,
+        "percent": "41%",
+        "ipa": "lJps",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 64,
+    "top": 81,
+    "translation": "учить(ся), изучать; узнавать",
+    "form1": [
+      {
+        "word": "learn",
+        "top500": false,
+        "top1000": true,
+        "percent": "42%",
+        "ipa": "lW ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "learnt",
+        "top500": false,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "lW ",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "learned",
+        "top500": false,
+        "top1000": true,
+        "percent": "45%",
+        "ipa": "lW nd",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form3": [
+      {
+        "word": "learnt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "lW nt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "learned",
+        "top500": false,
+        "top1000": true,
+        "ipa": "lW nd",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "learning",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'lW ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "learns",
+        "top500": false,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "lW ",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 65,
+    "top": 18,
+    "translation": "покидать, оставлять",
+    "form1": [
+      {
+        "word": "leave",
+        "top500": true,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "lJv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "left",
+        "top500": true,
+        "top1000": true,
+        "percent": "43%",
+        "ipa": "left",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "left",
+        "top500": true,
+        "top1000": true,
+        "ipa": "left",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "leaving",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "'lJvIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "leaves",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "lJvz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 66,
+    "top": 20,
+    "translation": "позволять, разрешать",
+    "form1": [
+      {
+        "word": "let",
+        "top500": true,
+        "top1000": true,
+        "percent": "89%",
+        "ipa": "let",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "let",
+        "top500": true,
+        "top1000": true,
+        "ipa": "let",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "let",
+        "top500": true,
+        "top1000": true,
+        "ipa": "let",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "letting",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "'letIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "lets",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "lets",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 67,
+    "top": 47,
+    "translation": "1) лежать\n\t\t\n\t\t\n\t\t 2) \n\t\tn- \n\t\tложь; v-\n\t\tлгать (прав. глагол)",
+    "form1": [
+      {
+        "word": "lie",
+        "top500": true,
+        "top1000": true,
+        "percent": "24%",
+        "ipa": "laI",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": " \n\t\tlay",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "leI",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": " \n\t\tlied",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "laId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": " \n\t\tlain",
+        "top500": true,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "leIn",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": " \n\t\tlied",
+        "top500": true,
+        "top1000": true,
+        "ipa": "laId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "lying",
+        "top500": true,
+        "top1000": true,
+        "percent": "35%",
+        "ipa": "'laIIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "lies",
+        "top500": true,
+        "top1000": true,
+        "percent": "21%",
+        "ipa": "laIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 68,
+    "top": 24,
+    "translation": "зажигать(ся), освещать(ся); \n\t\t \n\t\t(чаще как:  n- \n\t\tсвет; a- \n\t\tлегкий)",
+    "form1": [
+      {
+        "word": "light",
+        "top500": true,
+        "top1000": true,
+        "percent": "61%",
+        "ipa": "laIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "lit",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "lIt",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "lighted",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "'laItId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "lit",
+        "top500": true,
+        "top1000": true,
+        "ipa": "lIt",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "lighted",
+        "top500": true,
+        "top1000": true,
+        "ipa": "'laItId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "lighting",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "'laItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "lights",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "laIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 69,
+    "top": 46,
+    "translation": "терять; проигрывать",
+    "form1": [
+      {
+        "word": "lose",
+        "top500": true,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "lHz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "lost",
+        "top500": true,
+        "top1000": true,
+        "percent": "62%",
+        "ipa": "lO ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "lost",
+        "top500": true,
+        "top1000": true,
+        "ipa": "lO st",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "losing",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "'lHzIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "loses",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "'lHzIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 70,
+    "top": 12,
+    "translation": "делать, производить",
+    "form1": [
+      {
+        "word": "make",
+        "top500": true,
+        "top1000": true,
+        "percent": "40%",
+        "ipa": "meIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "made",
+        "top500": true,
+        "top1000": true,
+        "percent": "37%",
+        "ipa": "meId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "made",
+        "top500": true,
+        "top1000": true,
+        "ipa": "meId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "making",
+        "top500": true,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "'meIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "makes",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "meIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 71,
+    "top": 27,
+    "translation": "значить; (n-сере­дина;\n\t\ta- \n\t\tсредний)",
+    "form1": [
+      {
+        "word": "mean",
+        "top500": true,
+        "top1000": true,
+        "percent": "64%",
+        "ipa": "mJn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "meant",
+        "top500": true,
+        "top1000": true,
+        "percent": "16%",
+        "ipa": "ment",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "meant",
+        "top500": true,
+        "top1000": true,
+        "ipa": "ment",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "meaning",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "'mJnIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "means",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "mJnz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 72,
+    "top": 34,
+    "translation": "встречать(ся); знакомиться",
+    "form1": [
+      {
+        "word": "meet",
+        "top500": true,
+        "top1000": true,
+        "percent": "39%",
+        "ipa": "mJt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "met",
+        "top500": true,
+        "top1000": true,
+        "percent": "35%",
+        "ipa": "met",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "met",
+        "top500": true,
+        "top1000": true,
+        "ipa": "met",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "meeting",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "'mJtIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "meets",
+        "top500": true,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "mJts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 73,
+    "top": 103,
+    "translation": "n- ошибка; редко v-\n\t\t\n\t\tошибаться",
+    "form1": [
+      {
+        "word": "mistake",
+        "top500": true,
+        "top1000": false,
+        "percent": "68%",
+        "ipa": "mIs'teIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "mistook",
+        "top500": true,
+        "top1000": false,
+        "percent": "1%",
+        "ipa": "mIs'tuk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "mistaken",
+        "top500": true,
+        "top1000": false,
+        "percent": "14%",
+        "ipa": "mIs'teIkn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "mistaking",
+        "top500": true,
+        "top1000": false,
+        "percent": "3%",
+        "ipa": "mIs'teIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "mistakes",
+        "top500": true,
+        "top1000": false,
+        "percent": "14%",
+        "ipa": "mIs'teIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 74,
+    "top": 58,
+    "translation": "платить; (n- \n\t\tплата)",
+    "form1": [
+      {
+        "word": "pay",
+        "top500": true,
+        "top1000": true,
+        "percent": "53%",
+        "ipa": "peI",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "paid",
+        "top500": true,
+        "top1000": true,
+        "percent": "30%",
+        "ipa": "peId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "paid",
+        "top500": true,
+        "top1000": true,
+        "ipa": "peId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "paying",
+        "top500": true,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "'peIIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "pays",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "peIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 75,
+    "top": 25,
+    "translation": "класть, положить",
+    "form1": [
+      {
+        "word": "put",
+        "top500": true,
+        "top1000": true,
+        "percent": "72%",
+        "ipa": "put",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "put",
+        "top500": true,
+        "top1000": true,
+        "ipa": "put",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "put",
+        "top500": true,
+        "top1000": true,
+        "ipa": "put",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "putting",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "'putIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "puts",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "puts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 76,
+    "top": 42,
+    "translation": "читать",
+    "form1": [
+      {
+        "word": "read",
+        "top500": true,
+        "top1000": true,
+        "percent": "55%",
+        "ipa": "rJd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "read",
+        "top500": true,
+        "top1000": true,
+        "ipa": "red",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "read",
+        "top500": true,
+        "top1000": true,
+        "ipa": "red",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "reading",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "'rJdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "reads",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "rJdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 77,
+    "top": 131,
+    "translation": "избавлять(ся),",
+    "form1": [
+      {
+        "word": "rid",
+        "top500": false,
+        "top1000": false,
+        "percent": "97,4%",
+        "ipa": "rId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "rid",
+        "top500": false,
+        "top1000": false,
+        "ipa": "rId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "rid",
+        "top500": false,
+        "top1000": false,
+        "ipa": "rId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "ridding",
+        "top500": false,
+        "top1000": false,
+        "percent": "2,3%",
+        "ipa": "'rIdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "rids",
+        "top500": false,
+        "top1000": false,
+        "percent": "0,3%",
+        "ipa": "rIdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 78,
+    "top": 80,
+    "translation": "ехать (в машине,…); \n\t\t(n- \n\t\tезда)",
+    "form1": [
+      {
+        "word": "ride",
+        "top500": false,
+        "top1000": true,
+        "percent": "45%",
+        "ipa": "raId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "rode",
+        "top500": false,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "roud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "ridden",
+        "top500": false,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "rIdn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "riding",
+        "top500": false,
+        "top1000": true,
+        "percent": "24%",
+        "ipa": "'raIdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "rides",
+        "top500": false,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "raIdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 79,
+    "top": 61,
+    "translation": "звонить; (n- \n\t\tзвонок; кольцо)",
+    "form1": [
+      {
+        "word": "ring",
+        "top500": true,
+        "top1000": true,
+        "percent": "43%",
+        "ipa": "rIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "rang",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "rxN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "rung",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "rAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "ringing",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "'rININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "rings",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "rINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 80,
+    "top": 48,
+    "translation": "подниматься; возрастать",
+    "form1": [
+      {
+        "word": "rise",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "raIz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "rose",
+        "top500": true,
+        "top1000": true,
+        "percent": "43%",
+        "ipa": "rouz",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "risen",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "rIzn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "rising",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "'raIzIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "rises",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "'raIzIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 81,
+    "top": 23,
+    "translation": "бежать; двигаться",
+    "form1": [
+      {
+        "word": "run",
+        "top500": true,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "rAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "ran",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "rxn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "run",
+        "top500": true,
+        "top1000": true,
+        "ipa": "rAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "running",
+        "top500": true,
+        "top1000": true,
+        "percent": "28%",
+        "ipa": "'rAnIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "runs",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "rAnz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 82,
+    "top": 4,
+    "translation": "говорить, сказать",
+    "form1": [
+      {
+        "word": "say",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "seI",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "said",
+        "top500": true,
+        "top1000": true,
+        "percent": "77%",
+        "ipa": "sed",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "said",
+        "top500": true,
+        "top1000": true,
+        "ipa": "sed",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "saying",
+        "top500": true,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "'seIIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "says",
+        "top500": true,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "seIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 83,
+    "top": 8,
+    "translation": "видеть; понимать",
+    "form1": [
+      {
+        "word": "see",
+        "top500": true,
+        "top1000": true,
+        "percent": "57%",
+        "ipa": "sJ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "saw",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "sL",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "seen",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "sJn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "seeing",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "'sJIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sees",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "sJz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 84,
+    "top": 121,
+    "translation": "искать, разыскивать",
+    "form1": [
+      {
+        "word": "seek",
+        "top500": false,
+        "top1000": false,
+        "percent": "34%",
+        "ipa": "sJk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sought",
+        "top500": false,
+        "top1000": false,
+        "percent": "31%",
+        "ipa": "sL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sought",
+        "top500": false,
+        "top1000": false,
+        "ipa": "sL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "seeking",
+        "top500": false,
+        "top1000": false,
+        "percent": "31%",
+        "ipa": "'sJkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "seeks",
+        "top500": false,
+        "top1000": false,
+        "percent": "4%",
+        "ipa": "sJks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 85,
+    "top": 95,
+    "translation": "продавать(ся)",
+    "form1": [
+      {
+        "word": "sell",
+        "top500": false,
+        "top1000": true,
+        "percent": "44%",
+        "ipa": "sel",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sold",
+        "top500": false,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "sould",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sold",
+        "top500": false,
+        "top1000": true,
+        "ipa": "sould",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "selling",
+        "top500": false,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "'selIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sells",
+        "top500": false,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "selz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 86,
+    "top": 57,
+    "translation": "посылать, отправлять",
+    "form1": [
+      {
+        "word": "send",
+        "top500": true,
+        "top1000": true,
+        "percent": "35%",
+        "ipa": "send",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sent",
+        "top500": true,
+        "top1000": true,
+        "percent": "42%",
+        "ipa": "sent",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sent",
+        "top500": true,
+        "top1000": true,
+        "ipa": "sent",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sending",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "'sendIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sends",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "sendz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 87,
+    "top": 41,
+    "translation": "помещать, ставить",
+    "form1": [
+      {
+        "word": "set",
+        "top500": true,
+        "top1000": true,
+        "percent": "76%",
+        "ipa": "set",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "set",
+        "top500": true,
+        "top1000": true,
+        "ipa": "set",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "set",
+        "top500": true,
+        "top1000": true,
+        "ipa": "set",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "setting",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "'setIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sets",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "sets",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 88,
+    "top": 32,
+    "translation": "трясти(сь); качать",
+    "form1": [
+      {
+        "word": "shake",
+        "top500": true,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "SeIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "shook",
+        "top500": true,
+        "top1000": true,
+        "percent": "43%",
+        "ipa": "Suk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "shaken",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "'SeIkn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "shaking",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "'SeIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "shakes",
+        "top500": true,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "SeIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 89,
+    "top": 126,
+    "translation": "брить(ся)",
+    "form1": [
+      {
+        "word": "shave",
+        "top500": false,
+        "top1000": false,
+        "percent": "27%",
+        "ipa": "SeIv",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "shaved",
+        "top500": false,
+        "top1000": false,
+        "percent": "33%",
+        "ipa": "'SeIvd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "shaved",
+        "top500": false,
+        "top1000": false,
+        "ipa": "SeIvd",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "shaven",
+        "top500": false,
+        "top1000": false,
+        "percent": "8%",
+        "ipa": "'SeIvn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "shaving",
+        "top500": false,
+        "top1000": false,
+        "percent": "30%",
+        "ipa": "'SeIvIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "shaves",
+        "top500": false,
+        "top1000": false,
+        "percent": "2%",
+        "ipa": "SeIvz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 90,
+    "top": 108,
+    "translation": "n- блеск; v- \n\t\t1) сиять; 2) ам. разг. \n\t\tполировать",
+    "form1": [
+      {
+        "word": "shine",
+        "top500": true,
+        "top1000": false,
+        "percent": "20%",
+        "ipa": "SaIn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": " \n\t\tshone",
+        "top500": true,
+        "top1000": false,
+        "percent": "20%",
+        "ipa": "SOn",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": " \n\t\tshined",
+        "top500": true,
+        "top1000": false,
+        "percent": "6%",
+        "ipa": "SaInd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": " \n\t\tshone",
+        "top500": true,
+        "top1000": false,
+        "ipa": "SOn",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": " \n\t\tshined",
+        "top500": true,
+        "top1000": false,
+        "ipa": "SaInd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "shining",
+        "top500": true,
+        "top1000": false,
+        "percent": "37%",
+        "ipa": "'SaInIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "shines",
+        "top500": true,
+        "top1000": false,
+        "percent": "17%",
+        "ipa": "SaInz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 91,
+    "top": 43,
+    "translation": "стрелять; поражать",
+    "form1": [
+      {
+        "word": "shoot",
+        "top500": true,
+        "top1000": true,
+        "percent": "24%",
+        "ipa": "SHt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "shot",
+        "top500": true,
+        "top1000": true,
+        "percent": "50%",
+        "ipa": "SOt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "shot",
+        "top500": true,
+        "top1000": true,
+        "ipa": "SOt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "shooting",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "'SHtIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "shoots",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "SHts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 92,
+    "top": 31,
+    "translation": "показывать; (n- \n\t\tпоказ, спектакль)",
+    "form1": [
+      {
+        "word": "show",
+        "top500": true,
+        "top1000": true,
+        "percent": "51%",
+        "ipa": "Sou",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "showed",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "'Soud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "shown",
+        "top500": true,
+        "top1000": true,
+        "percent": "4,5%",
+        "ipa": "Soun",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "showed",
+        "top500": true,
+        "top1000": true,
+        "ipa": "'Soud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "showing",
+        "top500": true,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "'SouIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "shows",
+        "top500": true,
+        "top1000": true,
+        "percent": "12,5%",
+        "ipa": "Souz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 93,
+    "top": 65,
+    "translation": "закрывать(ся); перекрывать",
+    "form1": [
+      {
+        "word": "shut",
+        "top500": true,
+        "top1000": true,
+        "percent": "85%",
+        "ipa": "SAt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "shut",
+        "top500": true,
+        "top1000": true,
+        "ipa": "SAt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "shut",
+        "top500": true,
+        "top1000": true,
+        "ipa": "SAt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "shutting",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "'SAtIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "shuts",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "SAts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 94,
+    "top": 92,
+    "translation": "петь; (чаще singing \n\t\t- пение)",
+    "form1": [
+      {
+        "word": "sing",
+        "top500": false,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "sIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sang",
+        "top500": false,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "sxN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sung",
+        "top500": false,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "sAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "singing",
+        "top500": false,
+        "top1000": true,
+        "percent": "46%",
+        "ipa": "'sININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sings",
+        "top500": false,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "sINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "top": 93,
+    "translation": "тонуть; погружать(ся)",
+    "form1": [
+      {
+        "word": "sink",
+        "top500": false,
+        "top1000": true,
+        "percent": "47%",
+        "ipa": "sINk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sank",
+        "top500": false,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "sxNk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sunk",
+        "top500": false,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "sANk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sinking",
+        "top500": false,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "'sINkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sinks",
+        "top500": false,
+        "top1000": true,
+        "percent": "16%",
+        "ipa": "sINks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 95,
+    "top": 19,
+    "translation": "сидеть; заседать",
+    "form1": [
+      {
+        "word": "sit",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "sIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sat",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "sxt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sat",
+        "top500": true,
+        "top1000": true,
+        "ipa": "sxt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sitting",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "'sItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sits",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "sIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 97,
+    "top": 56,
+    "translation": "спать",
+    "form1": [
+      {
+        "word": "sleep",
+        "top500": true,
+        "top1000": true,
+        "percent": "60%",
+        "ipa": "slJp",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "slept",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "slept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "slept",
+        "top500": true,
+        "top1000": true,
+        "ipa": "slept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sleeping",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "'slJpIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sleeps",
+        "top500": true,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "slJps",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 98,
+    "top": 76,
+    "translation": "скользить",
+    "form1": [
+      {
+        "word": "slide",
+        "top500": false,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "slaId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "slid",
+        "top500": false,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "slId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "slid",
+        "top500": false,
+        "top1000": true,
+        "ipa": "slId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sliding",
+        "top500": false,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "'slaIdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "slides",
+        "top500": false,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "slaIdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 99,
+    "top": 84,
+    "translation": "нюхать; пахнуть; \n\t\t(n- \n\t\tобоняние; запах)",
+    "form1": [
+      {
+        "word": "smell",
+        "top500": false,
+        "top1000": true,
+        "percent": "60%",
+        "ipa": "smel",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "smelt",
+        "top500": false,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "smelt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "smelled",
+        "top500": false,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "smeld",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form3": [
+      {
+        "word": "smelt",
+        "top500": false,
+        "top1000": true,
+        "ipa": "smelt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "smelled",
+        "top500": false,
+        "top1000": true,
+        "ipa": "smeld",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "smelling",
+        "top500": false,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "'smelIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "smells",
+        "top500": false,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "smelz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 100,
+    "top": 35,
+    "translation": "говорить, разговаривать",
+    "form1": [
+      {
+        "word": "speak",
+        "top500": true,
+        "top1000": true,
+        "percent": "33%",
+        "ipa": "spJk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spoke",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "spouk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "spoken",
+        "top500": true,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "spoukn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "speaking",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "'spJkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "speaks",
+        "top500": true,
+        "top1000": true,
+        "percent": "14%",
+        "ipa": "spJks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 101,
+    "top": 87,
+    "translation": "спешить, ускорять; \n\t\t \n\t\t(чаще \n\t\tn- \n\t\tскорость)",
+    "form1": [
+      {
+        "word": "speed",
+        "top500": false,
+        "top1000": true,
+        "percent": "70%",
+        "ipa": "spJd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sped",
+        "top500": false,
+        "top1000": true,
+        "percent": "7%",
+        "ipa": "sped",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "speeded",
+        "top500": false,
+        "top1000": true,
+        "percent": "1%",
+        "ipa": "'spJdId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sped",
+        "top500": false,
+        "top1000": true,
+        "ipa": "sped",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "speeded",
+        "top500": false,
+        "top1000": true,
+        "ipa": "'spJdId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "speeding",
+        "top500": false,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'spJdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "speeds",
+        "top500": false,
+        "top1000": true,
+        "percent": "12%",
+        "ipa": "spJdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 102,
+    "top": 129,
+    "translation": "писать или произносить \n\t\tслово по буквам",
+    "form1": [
+      {
+        "word": "spell",
+        "top500": false,
+        "top1000": false,
+        "percent": "61%",
+        "ipa": "spel",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spelt",
+        "top500": false,
+        "top1000": false,
+        "percent": "1%",
+        "ipa": "spelt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "spelled",
+        "top500": false,
+        "top1000": false,
+        "percent": "14%",
+        "ipa": "speld",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form3": [
+      {
+        "word": "spelt",
+        "top500": false,
+        "top1000": false,
+        "ipa": "spelt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "spelled",
+        "top500": false,
+        "top1000": false,
+        "ipa": "speld",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "spelling",
+        "top500": false,
+        "top1000": false,
+        "percent": "9%",
+        "ipa": "'spelIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "spells",
+        "top500": false,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "spelz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 103,
+    "top": 85,
+    "translation": "тратить, расходовать",
+    "form1": [
+      {
+        "word": "spend",
+        "top500": false,
+        "top1000": true,
+        "percent": "32%",
+        "ipa": "spend",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spent",
+        "top500": false,
+        "top1000": true,
+        "percent": "56%",
+        "ipa": "spent",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "spent",
+        "top500": false,
+        "top1000": true,
+        "ipa": "spent",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "spending",
+        "top500": false,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "'spendIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "spends",
+        "top500": false,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "spendz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 104,
+    "top": 116,
+    "translation": "проливать(ся); рассыпать(ся)",
+    "form1": [
+      {
+        "word": "spill",
+        "top500": true,
+        "top1000": false,
+        "percent": "27%",
+        "ipa": "spIl",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spilt",
+        "top500": true,
+        "top1000": false,
+        "percent": "3%",
+        "ipa": "spIlt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "spilled",
+        "top500": true,
+        "top1000": false,
+        "percent": "32%",
+        "ipa": "spIld",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form3": [
+      {
+        "word": "spilt",
+        "top500": true,
+        "top1000": false,
+        "ipa": "spIlt",
+        "gb": true,
+        "us": false
+      },
+      {
+        "word": "spilled",
+        "top500": true,
+        "top1000": false,
+        "ipa": "spIld",
+        "gb": false,
+        "us": true
+      }
+    ],
+    "form4": [
+      {
+        "word": "spilling",
+        "top500": true,
+        "top1000": false,
+        "percent": "25%",
+        "ipa": "'spIlIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "spills",
+        "top500": true,
+        "top1000": false,
+        "percent": "13%",
+        "ipa": "spIlz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 105,
+    "top": 89,
+    "translation": "крутить(ся), вертеть(ся); \n\t\tпрясть",
+    "form1": [
+      {
+        "word": "spin",
+        "top500": false,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "spIn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spun",
+        "top500": false,
+        "top1000": true,
+        "percent": "21%",
+        "ipa": "spAn",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "span",
+        "top500": false,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "spxn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "spun",
+        "top500": false,
+        "top1000": true,
+        "ipa": "spAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "spinning",
+        "top500": false,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "'spInIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "spins",
+        "top500": false,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "spInz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 106,
+    "top": 115,
+    "translation": "плевать(ся); моросить",
+    "form1": [
+      {
+        "word": "spit",
+        "top500": true,
+        "top1000": false,
+        "percent": "39%",
+        "ipa": "spIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spat",
+        "top500": true,
+        "top1000": false,
+        "percent": "25%",
+        "ipa": "spxt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "spat",
+        "top500": true,
+        "top1000": false,
+        "ipa": "spxt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "spitting",
+        "top500": true,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "'spItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "spits",
+        "top500": true,
+        "top1000": false,
+        "percent": "21%",
+        "ipa": "spIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 107,
+    "top": 113,
+    "translation": "раскалывать(ся); (n- \n\t\tтрещина)",
+    "form1": [
+      {
+        "word": "split",
+        "top500": true,
+        "top1000": false,
+        "percent": "79%",
+        "ipa": "splIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "split",
+        "top500": true,
+        "top1000": false,
+        "ipa": "splIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "split",
+        "top500": true,
+        "top1000": false,
+        "ipa": "splIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "splitting",
+        "top500": true,
+        "top1000": false,
+        "percent": "12%",
+        "ipa": "'splItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "splits",
+        "top500": true,
+        "top1000": false,
+        "percent": "9%",
+        "ipa": "splIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 108,
+    "top": 98,
+    "translation": "распространять (ся)",
+    "form1": [
+      {
+        "word": "spread",
+        "top500": false,
+        "top1000": true,
+        "percent": "73%",
+        "ipa": "spred",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "spread",
+        "top500": false,
+        "top1000": true,
+        "ipa": "spred",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "spread",
+        "top500": false,
+        "top1000": true,
+        "ipa": "spred",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "spreading",
+        "top500": false,
+        "top1000": true,
+        "percent": "18%",
+        "ipa": "'spredIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "spreads",
+        "top500": false,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "spredz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 109,
+    "top": 106,
+    "translation": "n- весна;v-прыгать, вскакивать",
+    "form1": [
+      {
+        "word": "spring",
+        "top500": true,
+        "top1000": false,
+        "percent": "52%",
+        "ipa": "sprIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "sprang",
+        "top500": true,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "sprxN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sprung",
+        "top500": true,
+        "top1000": false,
+        "percent": "6%",
+        "ipa": "sprAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "springing",
+        "top500": true,
+        "top1000": false,
+        "percent": "4%",
+        "ipa": "'sprININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "springs",
+        "top500": true,
+        "top1000": false,
+        "percent": "23%",
+        "ipa": "sprINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 110,
+    "top": 15,
+    "translation": "стоять; ставить",
+    "form1": [
+      {
+        "word": "stand",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "stxnd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "stood",
+        "top500": true,
+        "top1000": true,
+        "percent": "29%",
+        "ipa": "stud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "stood",
+        "top500": true,
+        "top1000": true,
+        "ipa": "stud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "standing",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "stxndIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "stands",
+        "top500": true,
+        "top1000": true,
+        "percent": "24%",
+        "ipa": "stxndz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 111,
+    "top": 99,
+    "translation": "красть, воровать",
+    "form1": [
+      {
+        "word": "steal",
+        "top500": false,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "stJl",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "stole",
+        "top500": false,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "stoul",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "stolen",
+        "top500": false,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "stouln",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "stealing",
+        "top500": false,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "'stJlIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "steals",
+        "top500": false,
+        "top1000": true,
+        "percent": "5%",
+        "ipa": "stJlz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 112,
+    "top": 70,
+    "translation": "втыкать; (n- \n\t\tпалка)",
+    "form1": [
+      {
+        "word": "stick",
+        "top500": true,
+        "top1000": true,
+        "percent": "37%",
+        "ipa": "stIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "stuck",
+        "top500": true,
+        "top1000": true,
+        "percent": "34%",
+        "ipa": "stAk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "stuck",
+        "top500": true,
+        "top1000": true,
+        "ipa": "stAk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sticking",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'stIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sticks",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "stIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 113,
+    "top": 135,
+    "translation": "жалить; мучить, терзать",
+    "form1": [
+      {
+        "word": "sting",
+        "top500": false,
+        "top1000": false,
+        "percent": "35%",
+        "ipa": "stIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "stung",
+        "top500": false,
+        "top1000": false,
+        "percent": "33%",
+        "ipa": "stAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "stung",
+        "top500": false,
+        "top1000": false,
+        "ipa": "stAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "stinging",
+        "top500": false,
+        "top1000": false,
+        "percent": "23%",
+        "ipa": "'stININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "stings",
+        "top500": false,
+        "top1000": false,
+        "percent": "9%",
+        "ipa": "stINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 114,
+    "top": 117,
+    "translation": "шагать (большими шагами)",
+    "form1": [
+      {
+        "word": "stride",
+        "top500": false,
+        "top1000": false,
+        "percent": "24%",
+        "ipa": "straId",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "strode",
+        "top500": false,
+        "top1000": false,
+        "percent": "28%",
+        "ipa": "stroud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "stridden",
+        "top500": false,
+        "top1000": false,
+        "percent": "0%",
+        "ipa": "'strIdn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "striding",
+        "top500": false,
+        "top1000": false,
+        "percent": "11%",
+        "ipa": "'straIdIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "strides",
+        "top500": false,
+        "top1000": false,
+        "percent": "37%",
+        "ipa": "straIdz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 115,
+    "top": 86,
+    "translation": "1) ударять(ся); 2) \n\t\tбастовать",
+    "form1": [
+      {
+        "word": "strike",
+        "top500": false,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "straIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "struck",
+        "top500": false,
+        "top1000": true,
+        "percent": "47%",
+        "ipa": "strAk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "struck",
+        "top500": false,
+        "top1000": true,
+        "ipa": "strAk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "striking",
+        "top500": false,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "'straIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "strikes",
+        "top500": false,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "straIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 116,
+    "top": 109,
+    "translation": "клясться; ругать(ся)",
+    "form1": [
+      {
+        "word": "swear",
+        "top500": true,
+        "top1000": false,
+        "percent": "58%",
+        "ipa": "swFq",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "swore",
+        "top500": true,
+        "top1000": false,
+        "percent": "18%",
+        "ipa": "swL",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "sworn",
+        "top500": true,
+        "top1000": false,
+        "percent": "14%",
+        "ipa": "swL n",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "swearing",
+        "top500": true,
+        "top1000": false,
+        "percent": "6%",
+        "ipa": "'swFqrIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "swears",
+        "top500": true,
+        "top1000": false,
+        "percent": "4%",
+        "ipa": "swFqz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 117,
+    "top": 101,
+    "translation": "мести; сметать; мчаться",
+    "form1": [
+      {
+        "word": "sweep",
+        "top500": true,
+        "top1000": false,
+        "percent": "22%",
+        "ipa": "swJp",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "swept",
+        "top500": true,
+        "top1000": false,
+        "percent": "40%",
+        "ipa": "swept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "swept",
+        "top500": true,
+        "top1000": false,
+        "ipa": "swept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "sweeping",
+        "top500": true,
+        "top1000": false,
+        "percent": "21%",
+        "ipa": "'swJpIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "sweeps",
+        "top500": true,
+        "top1000": false,
+        "percent": "17%",
+        "ipa": "swJps",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 118,
+    "top": 123,
+    "translation": "раздуваться, набухать",
+    "form1": [
+      {
+        "word": "swell",
+        "top500": false,
+        "top1000": false,
+        "percent": "30%",
+        "ipa": "swel",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "swelled",
+        "top500": false,
+        "top1000": false,
+        "percent": "8%",
+        "ipa": "sweld",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "swollen",
+        "top500": false,
+        "top1000": false,
+        "percent": "33%",
+        "ipa": "swouln",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "swelling",
+        "top500": false,
+        "top1000": false,
+        "percent": "16%",
+        "ipa": "'swelIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "swells",
+        "top500": false,
+        "top1000": false,
+        "percent": "13%",
+        "ipa": "swelz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 119,
+    "top": 110,
+    "translation": "плыть, плавать",
+    "form1": [
+      {
+        "word": "swim",
+        "top500": true,
+        "top1000": false,
+        "percent": "31%",
+        "ipa": "swIm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "swam",
+        "top500": true,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "swxm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "swum",
+        "top500": true,
+        "top1000": false,
+        "percent": "1%",
+        "ipa": "swAm",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "swimming",
+        "top500": true,
+        "top1000": false,
+        "percent": "41%",
+        "ipa": "'swImIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "swims",
+        "top500": true,
+        "top1000": false,
+        "percent": "12%",
+        "ipa": "swImz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 120,
+    "top": 77,
+    "translation": "качать(ся); (n- \n\t\tколебание)",
+    "form1": [
+      {
+        "word": "swing",
+        "top500": false,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "swIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "swung",
+        "top500": false,
+        "top1000": true,
+        "percent": "31%",
+        "ipa": "swAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "swung",
+        "top500": false,
+        "top1000": true,
+        "ipa": "swAN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "swinging",
+        "top500": false,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "'swININ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "swings",
+        "top500": false,
+        "top1000": true,
+        "percent": "30%",
+        "ipa": "swINz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 121,
+    "top": 11,
+    "translation": "брать; принимать",
+    "form1": [
+      {
+        "word": "take",
+        "top500": true,
+        "top1000": true,
+        "percent": "38%",
+        "ipa": "teIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "took",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "tuk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "taken",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "teIkn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "taking",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'teIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "takes",
+        "top500": true,
+        "top1000": true,
+        "percent": "18%",
+        "ipa": "teIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 122,
+    "top": 105,
+    "translation": "учить, преподавать",
+    "form1": [
+      {
+        "word": "teach",
+        "top500": true,
+        "top1000": false,
+        "percent": "39%",
+        "ipa": "tJC",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "taught",
+        "top500": true,
+        "top1000": false,
+        "percent": "41%",
+        "ipa": "tL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "taught",
+        "top500": true,
+        "top1000": false,
+        "ipa": "tL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "teaching",
+        "top500": true,
+        "top1000": false,
+        "percent": "17%",
+        "ipa": "'tJCIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "teaches",
+        "top500": true,
+        "top1000": false,
+        "percent": "3%",
+        "ipa": "'tJCIz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 123,
+    "top": 64,
+    "translation": "1) рвать(ся);\n\t\t\n\t\t\n\t\t2) [tIq]\n\t\tn- \n\t\tслеза",
+    "form1": [
+      {
+        "word": "tear",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "tFq",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "tore",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "tL",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "torn",
+        "top500": true,
+        "top1000": true,
+        "percent": "17%",
+        "ipa": "tL n",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "tearing",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "'tFqrIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "tears",
+        "top500": true,
+        "top1000": true,
+        "percent": "47%",
+        "ipa": "tFqz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 124,
+    "top": 13,
+    "translation": "говорить; рассказывать",
+    "form1": [
+      {
+        "word": "tell",
+        "top500": true,
+        "top1000": true,
+        "percent": "50%",
+        "ipa": "tel",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "told",
+        "top500": true,
+        "top1000": true,
+        "percent": "39%",
+        "ipa": "tould",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "told",
+        "top500": true,
+        "top1000": true,
+        "ipa": "tould",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "telling",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "'telIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "tells",
+        "top500": true,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "telz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 125,
+    "top": 10,
+    "translation": "думать; полагать",
+    "form1": [
+      {
+        "word": "think",
+        "top500": true,
+        "top1000": true,
+        "percent": "52%",
+        "ipa": "TINk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "thought",
+        "top500": true,
+        "top1000": true,
+        "percent": "36%",
+        "ipa": "TL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "thought",
+        "top500": true,
+        "top1000": true,
+        "ipa": "TL t",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "thinking",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "'TINkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "thinks",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "TINks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 126,
+    "top": 53,
+    "translation": "бросать, кидать",
+    "form1": [
+      {
+        "word": "throw",
+        "top500": true,
+        "top1000": true,
+        "percent": "22%",
+        "ipa": "Trou",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "threw",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "TrH",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "thrown",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "Troun",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "throwing",
+        "top500": true,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "'TrouIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "throws",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "Trouz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 127,
+    "top": 124,
+    "translation": "толкать; тыкать; \n\t\tn- \n\t\tтолчок",
+    "form1": [
+      {
+        "word": "thrust",
+        "top500": false,
+        "top1000": false,
+        "percent": "66%",
+        "ipa": "TrAst",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "thrust",
+        "top500": false,
+        "top1000": false,
+        "ipa": "TrAst",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "thrust",
+        "top500": false,
+        "top1000": false,
+        "ipa": "TrAst",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "thrusting",
+        "top500": false,
+        "top1000": false,
+        "percent": "15%",
+        "ipa": "'TrAstIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "thrusts",
+        "top500": false,
+        "top1000": false,
+        "percent": "19%",
+        "ipa": "TrAsts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 128,
+    "top": 45,
+    "translation": "понимать, постигать",
+    "form1": [
+      {
+        "word": "understand",
+        "top500": true,
+        "top1000": true,
+        "percent": "74%",
+        "ipa": "\"Andq'stxnd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "understood",
+        "top500": true,
+        "top1000": true,
+        "percent": "15%",
+        "ipa": "\"Andq'stud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "understood",
+        "top500": true,
+        "top1000": true,
+        "ipa": "\"Andq'stud",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "understanding",
+        "top500": true,
+        "top1000": true,
+        "percent": "8%",
+        "ipa": "\"Andq'stxndIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "understands",
+        "top500": true,
+        "top1000": true,
+        "percent": "3%",
+        "ipa": "\"Andq'stxndz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 129,
+    "top": 119,
+    "translation": "расстраивать, огорчать",
+    "form1": [
+      {
+        "word": "upset",
+        "top500": false,
+        "top1000": false,
+        "percent": "91%",
+        "ipa": "Ap'set",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "upset",
+        "top500": false,
+        "top1000": false,
+        "ipa": "Ap'set",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "upset",
+        "top500": false,
+        "top1000": false,
+        "ipa": "Ap'set",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "upsetting",
+        "top500": false,
+        "top1000": false,
+        "percent": "7%",
+        "ipa": "Ap'setIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "upsets",
+        "top500": false,
+        "top1000": false,
+        "percent": "2%",
+        "ipa": "Ap'sets",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 130,
+    "top": 90,
+    "translation": "просыпаться; будить",
+    "form1": [
+      {
+        "word": "wake",
+        "top500": false,
+        "top1000": true,
+        "percent": "52%",
+        "ipa": "weIk",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "woke",
+        "top500": false,
+        "top1000": true,
+        "percent": "21%",
+        "ipa": "wouk",
+        "gb": false,
+        "us": false
+      },
+      {
+        "word": "waked",
+        "top500": false,
+        "top1000": true,
+        "percent": "0,2%",
+        "ipa": "weIkt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "woken",
+        "top500": false,
+        "top1000": true,
+        "percent": "2,8%",
+        "ipa": "'woukn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "waking",
+        "top500": false,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "'weIkIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "wakes",
+        "top500": false,
+        "top1000": true,
+        "percent": "13%",
+        "ipa": "weIks",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 131,
+    "top": 49,
+    "translation": "носить (одежду); \n\t\t(n-\n\t\t\n\t\tодежда)",
+    "form1": [
+      {
+        "word": "wear",
+        "top500": true,
+        "top1000": true,
+        "percent": "16%",
+        "ipa": "wFq",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "wore",
+        "top500": true,
+        "top1000": true,
+        "percent": "20%",
+        "ipa": "wL",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "worn",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "wL ",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "wearing",
+        "top500": true,
+        "top1000": true,
+        "percent": "45%",
+        "ipa": "'wFqrIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "wears",
+        "top500": true,
+        "top1000": true,
+        "percent": "10%",
+        "ipa": "wFqz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 132,
+    "top": 133,
+    "translation": "плакать, рыдать",
+    "form1": [
+      {
+        "word": "weep",
+        "top500": false,
+        "top1000": false,
+        "percent": "23%",
+        "ipa": "wJp",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "wept",
+        "top500": false,
+        "top1000": false,
+        "percent": "22%",
+        "ipa": "wept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "wept",
+        "top500": false,
+        "top1000": false,
+        "ipa": "wept",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "weeping",
+        "top500": false,
+        "top1000": false,
+        "percent": "48%",
+        "ipa": "'wJpIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "weeps",
+        "top500": false,
+        "top1000": false,
+        "percent": "7%",
+        "ipa": "wJps",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 133,
+    "top": 36,
+    "translation": "выиграть, победить",
+    "form1": [
+      {
+        "word": "win",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "wIn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "won",
+        "top500": true,
+        "top1000": true,
+        "percent": "83%",
+        "ipa": "wAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "won",
+        "top500": true,
+        "top1000": true,
+        "ipa": "wAn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "winning",
+        "top500": true,
+        "top1000": true,
+        "percent": "4%",
+        "ipa": "'wInIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "wins",
+        "top500": true,
+        "top1000": true,
+        "percent": "2%",
+        "ipa": "wInz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 134,
+    "top": 68,
+    "translation": "виться; (но чаще [wInd]\n\t\tn- \n\t\tветер)",
+    "form1": [
+      {
+        "word": "wind",
+        "top500": true,
+        "top1000": true,
+        "percent": "74%",
+        "ipa": "waInd",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "wound",
+        "top500": true,
+        "top1000": true,
+        "percent": "11%",
+        "ipa": "waund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "wound",
+        "top500": true,
+        "top1000": true,
+        "ipa": "waund",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "winding",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "'waIndIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "winds",
+        "top500": true,
+        "top1000": true,
+        "percent": "9%",
+        "ipa": "waIndz",
+        "gb": false,
+        "us": false
+      }
+    ]
+  },
+  {
+    "number": 135,
+    "top": 67,
+    "translation": "писать",
+    "form1": [
+      {
+        "word": "write",
+        "top500": true,
+        "top1000": true,
+        "percent": "27%",
+        "ipa": "raIt",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form2": [
+      {
+        "word": "wrote",
+        "top500": true,
+        "top1000": true,
+        "percent": "19%",
+        "ipa": "rout",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form3": [
+      {
+        "word": "written",
+        "top500": true,
+        "top1000": true,
+        "percent": "25%",
+        "ipa": "'rItn",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "form4": [
+      {
+        "word": "writing",
+        "top500": true,
+        "top1000": true,
+        "percent": "23%",
+        "ipa": "'raItIN",
+        "gb": false,
+        "us": false
+      }
+    ],
+    "sform": [
+      {
+        "word": "writes",
+        "top500": true,
+        "top1000": true,
+        "percent": "6%",
+        "ipa": "raIts",
+        "gb": false,
+        "us": false
+      }
+    ]
+  }
+]
