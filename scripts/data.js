@@ -927,7 +927,8 @@
             "got"
         ],
         "form3": [
-            "got; \n\t\t ам.\n\t\t\n\t\tуст.\n\t\t\n\t\tgotten"
+            "got",
+            "ам.\n\t\t\n\t\tуст.\n\t\t\n\t\tgotten"
         ],
         "form4": [
             "getting"
