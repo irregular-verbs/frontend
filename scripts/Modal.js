@@ -13,7 +13,6 @@ import {h} from 'react-markup'
 export default React.createClass({
 
     onClose: function(e) {
-        console.log(e.target);
         if(e.target === this.refs.root && this.props.onClose) {
             this.props.onClose()
         }

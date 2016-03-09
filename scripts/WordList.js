@@ -21,6 +21,12 @@ export default React.createClass({
         }
     },
 
+    componentDidMount: function() {
+        window.addEventListener('popstate', (historyStateRecord) => {
+            this.replaceState(historyStateRecord.state)
+        })
+    },
+
     renderWordForm: function(data) {
         return h("div.word-list__word-form", data.map(variant => (
             h(`div.word-list__form-variant`, {key:variant}, variant)
@@ -36,14 +42,25 @@ export default React.createClass({
     },
 
     onWordClick: function(wordId) {
-        this.setState({
-            currentWordId: wordId
-        })
+        const {data} = this.props
+        const wordSearch = data.filter(x => x.id === wordId)
+        if(wordSearch.length > 0) {
+            const word = wordSearch[0]
+            this.setState({
+                currentWordId: word.id
+            }, () => {
+                document.title = "Irregular verbs: “" + wordId + "”"
+                window.history.pushState(this.state, wordId, "/" + wordId)
+            })
+        }
     },
 
     onCloseCurrentWordModal: function() {
         this.setState({
             currentWordId: null
+        }, () => {
+            document.title = "Irregular verbs"
+            window.history.pushState(this.state, "Irregular verbs", "/")
         })
     },
 
@@ -54,7 +71,6 @@ export default React.createClass({
     },
 
     render: function () {
-        window.React = React;
 
         const {data} = this.props
         const {sortField,sortDirection, currentWordId} = this.state
@@ -67,7 +83,7 @@ export default React.createClass({
 
         let currentWordModal = null
         if(currentWordId !== null) {
-            const currentWord = data.filter(x => x.top === currentWordId);
+            const currentWord = data.filter(x => x.id === currentWordId);
             if(currentWord.length > 0) {
                 currentWordModal = h(WordPopup, {word:currentWord[0],onClose:this.onCloseCurrentWordModal})
             }
@@ -87,9 +103,9 @@ export default React.createClass({
                 ),
                 sortedData.map(row => (
                     h(`div`, {
-                        key: row.top,
-                        onClick: () => this.onWordClick(row.top),
-                        className: "word-list__row" + (row.top === currentWordId ? " selected" : "")
+                        key: row.id,
+                        onClick: () => this.onWordClick(row.id),
+                        className: "word-list__row" + (row.id === currentWordId ? " selected" : "")
                     },
                         h("div.word-list__cell.word__top", row.top),
                         h("div.word-list__cell.word__form1", this.renderWordForm(row.form1)),
