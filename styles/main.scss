@@ -63,21 +63,20 @@ html {
 }
 
 .word-modal {
-    display: flex;
+    display: table;
     flex-direction: column;
 
     &__field {
-        display: flex;
+        display: table-row;
     }
 
     &__title, &__value {
+        display: table-cell;
         padding: 0.55rem 0.25rem;;
     }
 
     &__title {
-        display: flex;
-        flex: 1;
-        justify-content: flex-end;
+        text-align: right;
         font-weight: bold;
 
         &:after {
@@ -86,10 +85,7 @@ html {
     }
 
     &__value {
-        display: flex;
-        flex: 1;
     }
-
 }
 
 
