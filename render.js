@@ -1,57 +1,9 @@
 import ReactDOMServer from 'react-dom/server'
 import React from 'react'
 import fs from 'fs'
-import jsdom from 'jsdom'
 
 import WordList from './scripts/WordList'
 import data from './scripts/data'
-
-jsdom.defaultDocumentFeatures = {
-    FetchExternalResources: false,
-    ProcessExternalResources: false,
-    SkipExternalResources: true,
-}
-
-/*jsdom.env(
-    './static/index.html',
-    [],
-    {
-        features: {
-            FetchExternalResources: false,
-            ProcessExternalResources: false,
-            SkipExternalResources: true,
-        }
-    },
-    function (err, window) {
-        if(err) {
-            throw new Error(err)
-        }
-
-        console.log("go throught words");
-        data.slice(0,10).forEach(word => {
-            process.nextTick(() => {
-                const initialState = {
-                    currentWordId: word.id
-                }
-                console.log(`${word.id}: create element`);
-                var element = React.createElement(WordList, {initialState});
-                console.log(`${word.id}: render html`);
-                const reactOutput = ReactDOMServer.renderToStaticMarkup(element)
-                console.log(`${word.id}: put output to document`);
-                window.document.getElementById('react').innerHTML = reactOutput
-                var fileName = `./debug/${word.id}.html`;
-                console.log(`${word.id}: serialize`);
-                var serializeDocument = window.document.outerHTML;
-                console.log(`${word.id}: write`);
-                fs.writeFile(fileName, serializeDocument, (err) => {
-                    if (err) throw err;
-                    console.log(`${word.id}: written`);
-                })
-            })
-        })
-
-    }
-);*/
 
 var template = fs.readFileSync( './static/index.html').toString(); //todo:toString - bad
 
