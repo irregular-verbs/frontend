@@ -8,17 +8,19 @@
  */
 import React from 'react'
 import {h} from 'react-markup'
+import data from './data'
 
 import WordPopup from './WordPopup'
 
 export default React.createClass({
 
     getInitialState: function() {
-        return {
+        const {initialState} = this.props
+        return Object.assign({
             sortField: "top",
             sortDirection: 1,
             currentWordId: null
-        }
+        }, initialState)
     },
 
     componentDidMount: function() {
@@ -42,7 +44,6 @@ export default React.createClass({
     },
 
     onWordClick: function(wordId) {
-        const {data} = this.props
         const wordSearch = data.filter(x => x.id === wordId)
         if(wordSearch.length > 0) {
             const word = wordSearch[0]
@@ -50,7 +51,7 @@ export default React.createClass({
                 currentWordId: word.id
             }, () => {
                 document.title = "Irregular verbs: “" + wordId + "”"
-                window.history.pushState(this.state, wordId, "/" + wordId)
+                window.history.pushState(this.state, wordId, "/" + wordId + ".html")
             })
         }
     },
@@ -71,8 +72,6 @@ export default React.createClass({
     },
 
     render: function () {
-
-        const {data} = this.props
         const {sortField,sortDirection, currentWordId} = this.state
 
         const sortedData = data.slice().sort((x,y) => {

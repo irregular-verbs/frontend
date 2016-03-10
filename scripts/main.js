@@ -10,12 +10,17 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import {h} from 'react-markup'
 
-import data from './data'
 import WordList from './WordList'
 
 document.addEventListener('DOMContentLoaded', () => {
+
+    let currentWordId = window.location.pathname.substr(1).replace(/\.html$/, "")
+    currentWordId = currentWordId !== "" ? currentWordId : null
+
+    const initialState = {currentWordId}
+
     ReactDOM.render(
-        h(WordList, {"data":data}),
+        h(WordList, {initialState}),
         document.getElementById('react')
     )
 });
