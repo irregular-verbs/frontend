@@ -9,8 +9,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import {h} from 'react-markup'
+import data from './data'
 
-import WordList from './WordList'
+import WordList from './components/WordList'
 
 document.addEventListener('DOMContentLoaded', () => {
 
@@ -20,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const initialState = {currentWordId}
 
     ReactDOM.render(
-        h(WordList, {initialState}),
+        h(WordList, {data, initialState}),
         document.getElementById('react')
     )
 });
