@@ -30,7 +30,7 @@ export default React.createClass({
 
     renderWordForm: function(data) {
         return h("div.word-list__word-form", data.map(variant => (
-            h(`div.word-list__form-variant`, {key:variant}, variant)
+            h(`div.word-list__form-variant`, {key:variant.text}, variant.text)
         )))
     },
 

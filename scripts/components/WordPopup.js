@@ -16,7 +16,7 @@ export default React.createClass({
 
     renderWordForm: function(wordForm) {
         return h("div.word-modal__word-form", wordForm.map(variant => (
-            h(`div.word-modal__word-variant`, {key:variant}, variant)
+            h(`div.word-modal__word-variant`, {key:variant.text}, variant.text + " ["+variant.ipa+"]")
         )))
     },
 
