@@ -96,16 +96,28 @@ html {
         display: flex;
         flex-direction: column;
         flex: 1;
-        align-items: center;
+
+        &:nth-child(even) {
+            color: #A56D00;
+        }
     }
 
     &__variant-list {
         display: flex;
-        flex-direction: column;
         flex: 1;
     }
 
-    &__value {
+    &__variant {
+        display: flex;
+        flex-direction: column;
+
+        &:not(:first-child) {
+            margin-left: 3rem;
+        }
+    }
+
+    &__ipa {
+        font-size: 0.75rem;
     }
 
 }

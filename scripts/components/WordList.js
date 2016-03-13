@@ -103,9 +103,9 @@ export default React.createClass({
                 currentWordModal,
                 h("div.word-list__header",
                     this.renderHeaderTitle('top', "TOP"),
-                    this.renderHeaderTitle('form1', "Form 1"),
-                    this.renderHeaderTitle('form2', "Form 2"),
-                    this.renderHeaderTitle('form3', "Form 3"),
+                    this.renderHeaderTitle('infinitive', "Infinitive (I)"),
+                    this.renderHeaderTitle('past_simple', "Past Simple (II)"),
+                    this.renderHeaderTitle('past_participle', "Past Participle (III)"),
                     this.renderHeaderTitle('translation', "Translation")
                 ),
                 flatten(sortedData.map((row,i) =>
@@ -116,9 +116,9 @@ export default React.createClass({
                             className: "word-list__row" + (i % 2 == 0 ? " word-list__row--even" : " word-list__row--odd")
                         },
                             h("div.word-list__cell.word__top", j === 0 ? row.top : ""),
-                            h("div.word-list__cell.word__form1", j === 0 ? this.renderWordForm(meaning.form1) : ""),
-                            h("div.word-list__cell.word__form2", this.renderWordForm(meaning.form2)),
-                            h("div.word-list__cell.word__form3", this.renderWordForm(meaning.form3)),
+                            h("div.word-list__cell.word__infinitive", j === 0 ? this.renderWordForm(meaning.infinitive) : ""),
+                            h("div.word-list__cell.word__past-simple", this.renderWordForm(meaning.past_simple)),
+                            h("div.word-list__cell.word__past-participle", this.renderWordForm(meaning.past_participle)),
                             h("div.word-list__cell.word__translation",  this.renderTranslation(meaning.translation))
                         )
                 ))))

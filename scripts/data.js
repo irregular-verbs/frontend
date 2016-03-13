@@ -12,19 +12,19 @@ export default [
         "top": 114,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "awake",
                         "ipa": "əˈweɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "awoke",
                         "ipa": "əˈwəʊk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "awoke",
                         "ipa": "əˈwəʊk"
@@ -34,7 +34,7 @@ export default [
                         "ipa": "əˈwəʊkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "awaking",
                         "ipa": "əˈweɪkɪŋ"
@@ -57,13 +57,13 @@ export default [
         "top": 1,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "be",
                         "ipa": "biː"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "was",
                         "ipa": "wɒz"
@@ -73,13 +73,13 @@ export default [
                         "ipa": "wɜː(ɹ)"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "been",
                         "ipa": "bɪn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "being",
                         "ipa": "ˈbiːɪŋ"
@@ -110,19 +110,19 @@ export default [
         "top": 88,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bear",
                         "ipa": "bɛə(ɹ)"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bore",
                         "ipa": "bɔɹ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "borne",
                         "ipa": "bɔːn"
@@ -132,7 +132,7 @@ export default [
                         "ipa": "ˈbɔːn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "bearing",
                         "ipa": "ˈbɛə̯ɹɪŋ"
@@ -156,25 +156,25 @@ export default [
         "top": 38,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "beat",
                         "ipa": "biːt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "beat",
                         "ipa": "biːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "beaten",
                         "ipa": "ˈbit(ə)n"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "beating",
                         "ipa": "ˈbiːtɪŋ"
@@ -197,25 +197,25 @@ export default [
         "top": 55,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "become",
                         "ipa": "bɪˈkʌm"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "became",
                         "ipa": "bɪˈkeɪm"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "become",
                         "ipa": "bɪˈkʌm"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "becoming",
                         "ipa": "bɪˈkʌmɪŋ"
@@ -238,25 +238,25 @@ export default [
         "top": 29,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "begin",
                         "ipa": "bɪˈɡɪn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "began",
                         "ipa": "bɪˈɡæn"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "begun",
                         "ipa": "[beˈɡun]"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "beginning",
                         "ipa": "bɪˈɡɪn.ɪŋ"
@@ -280,25 +280,25 @@ export default [
         "top": 91,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bend",
                         "ipa": "bɛnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bent",
                         "ipa": "bɛnt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "bent",
                         "ipa": "bɛnt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "bending",
                         "ipa": "ˈbɛndɪŋ"
@@ -321,25 +321,25 @@ export default [
         "top": 102,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bet",
                         "ipa": "ˈbɛt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bet",
                         "ipa": "ˈbɛt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "bet",
                         "ipa": "ˈbɛt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "betting",
                         "ipa": "ˈbɛtɪŋ"
@@ -362,25 +362,25 @@ export default [
         "top": 134,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bind",
                         "ipa": "baɪnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bound",
                         "ipa": "ˈbaʊnd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "bound",
                         "ipa": "ˈbaʊnd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "binding",
                         "ipa": "ˈbaɪndiŋ"
@@ -403,25 +403,25 @@ export default [
         "top": 97,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bite",
                         "ipa": "baɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bit",
                         "ipa": "bɪt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "bitten",
                         "ipa": "ˈbɪtən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "biting",
                         "ipa": "ˈbaɪtɪŋ"
@@ -444,25 +444,25 @@ export default [
         "top": 120,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bleed",
                         "ipa": "ˈbliːd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bled",
                         "ipa": "ˈbled"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "bled",
                         "ipa": "ˈbled"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "bleeding",
                         "ipa": "ˈbliːdɪŋ"
@@ -485,25 +485,25 @@ export default [
         "top": 66,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "blow",
                         "ipa": "bləʊ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "blew",
                         "ipa": "bluː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "blown",
                         "ipa": "bləʊn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "blowing",
                         "ipa": "ˈbləʊɪŋ"
@@ -526,25 +526,25 @@ export default [
         "top": 33,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "break",
                         "ipa": "bɹeɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "broke",
                         "ipa": "brəʊk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "broken",
                         "ipa": "ˈbrəʊkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "breaking",
                         "ipa": "ˈbɹeɪkɪŋ"
@@ -567,25 +567,25 @@ export default [
         "top": 40,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "bring",
                         "ipa": "ˈbɹɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "brought",
                         "ipa": "bɹɔːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "brought",
                         "ipa": "bɹɔːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "bringing",
                         "ipa": "ˈbɹɪŋɪŋ"
@@ -608,25 +608,25 @@ export default [
         "top": 37,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "build",
                         "ipa": "bɪld"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "built",
                         "ipa": "ˈbɪlt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "built",
                         "ipa": "ˈbɪlt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "building",
                         "ipa": "ˈbɪldɪŋ"
@@ -649,13 +649,13 @@ export default [
         "top": 72,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "burn",
                         "ipa": "bɝn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "burnt",
                         "ipa": "ˈbəːnt"
@@ -665,7 +665,7 @@ export default [
                         "ipa": "ˈbɜː(r)nd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "burnt",
                         "ipa": "ˈbəːnt"
@@ -675,7 +675,7 @@ export default [
                         "ipa": "ˈbɜː(r)nd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "burning",
                         "ipa": "bɝnɪŋ"
@@ -698,25 +698,25 @@ export default [
         "top": 94,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "burst",
                         "ipa": "bɝst"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "burst",
                         "ipa": "bɝst"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "burst",
                         "ipa": "bɝst"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "bursting",
                         "ipa": "ˈbɜː(r)stɪŋ"
@@ -739,25 +739,25 @@ export default [
         "top": 79,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "buy",
                         "ipa": "baɪ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "bought",
                         "ipa": "bɔːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "bought",
                         "ipa": "bɔːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "buying",
                         "ipa": "ˈbaɪɪŋ"
@@ -780,25 +780,25 @@ export default [
         "top": 112,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "cast",
                         "ipa": "kɑːst"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "cast",
                         "ipa": "kɑːst"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "cast",
                         "ipa": "kɑːst"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "casting",
                         "ipa": "[ˈkas̪t̪ʲĩŋk]"
@@ -821,25 +821,25 @@ export default [
         "top": 44,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "catch",
                         "ipa": "kætʃ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "caught",
                         "ipa": "kɔ(ː)t"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "caught",
                         "ipa": "kɔ(ː)t"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "catching",
                         "ipa": "ˈkætʃɪŋ"
@@ -862,25 +862,25 @@ export default [
         "top": 107,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "choose",
                         "ipa": "tʃuːz"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "chose",
                         "ipa": "tʃəʊz"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "chosen",
                         "ipa": "ˈtʃəʊ.zən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "choosing",
                         "ipa": "ˈtʃuːzɪŋ"
@@ -903,25 +903,25 @@ export default [
         "top": 127,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "cling",
                         "ipa": "ˈklɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "clung",
                         "ipa": "ˈklʌŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "clung",
                         "ipa": "ˈklʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "clinging",
                         "ipa": "ˈklɪŋɪŋ"
@@ -944,25 +944,25 @@ export default [
         "top": 9,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "come",
                         "ipa": "kʌm"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "came",
                         "ipa": "keɪm"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "come",
                         "ipa": "kʌm"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "coming",
                         "ipa": "ˈkʌmɪŋ"
@@ -985,25 +985,25 @@ export default [
         "top": 118,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "cost",
                         "ipa": "ˈkɒst"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "cost",
                         "ipa": "ˈkɒst"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "cost",
                         "ipa": "ˈkɒst"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "costing",
                         "ipa": "ˈkɒstɪŋ"
@@ -1026,25 +1026,25 @@ export default [
         "top": 122,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "creep",
                         "ipa": "kɹiːp"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "crept",
                         "ipa": "ˈkrɛpt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "crept",
                         "ipa": "ˈkrɛpt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "creeping",
                         "ipa": "ˈkriːpɪŋ"
@@ -1067,25 +1067,25 @@ export default [
         "top": 26,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "cut",
                         "ipa": "kʌt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "cut",
                         "ipa": "kʌt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "cut",
                         "ipa": "kʌt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "cutting",
                         "ipa": "ˈkʌtɪŋ"
@@ -1108,25 +1108,25 @@ export default [
         "top": 75,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "deal",
                         "ipa": "dɪəɫ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "dealt",
                         "ipa": "ˈdɛlt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "dealt",
                         "ipa": "ˈdɛlt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "dealing",
                         "ipa": "ˈdiːlɪŋ"
@@ -1150,25 +1150,25 @@ export default [
         "top": 100,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "dig",
                         "ipa": "dɪɡ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "dug",
                         "ipa": "dʌɡ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "dug",
                         "ipa": "dʌɡ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "digging",
                         "ipa": "ˈdɪɡɪŋ(ɡ)"
@@ -1191,25 +1191,25 @@ export default [
         "top": 3,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "do",
                         "ipa": "duː"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "did",
                         "ipa": "dɪd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "done",
                         "ipa": "dʌn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "doing",
                         "ipa": "ˈduːɪŋ"
@@ -1232,25 +1232,25 @@ export default [
         "top": 60,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "draw",
                         "ipa": "dɹɔː"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "drew",
                         "ipa": "druː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "drawn",
                         "ipa": "drɔːn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "drawing",
                         "ipa": "ˈdɹɔ.ɪŋ(ɡ)"
@@ -1273,13 +1273,13 @@ export default [
         "top": 82,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "dream",
                         "ipa": "dɹiːm"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "dreamt",
                         "ipa": "ˈdɹɛmt"
@@ -1289,7 +1289,7 @@ export default [
                         "ipa": "ˈdriːmd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "dreamt",
                         "ipa": "ˈdɹɛmt"
@@ -1299,7 +1299,7 @@ export default [
                         "ipa": "ˈdriːmd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "dreaming",
                         "ipa": "'d(ʒ)ɹi.mɪŋ"
@@ -1323,25 +1323,25 @@ export default [
         "top": 52,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "drink",
                         "ipa": "dɹɪŋk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "drank",
                         "ipa": "dɹæŋk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "drunk",
                         "ipa": "drʌŋk"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "drinking",
                         "ipa": "ˈdɹɪŋkɪŋ"
@@ -1364,25 +1364,25 @@ export default [
         "top": 39,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "drive",
                         "ipa": "dɹaɪv"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "drove",
                         "ipa": "dɹəʊv"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "driven",
                         "ipa": "ˈdrɪvən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "driving",
                         "ipa": "ˈdraɪvɪŋ"
@@ -1406,25 +1406,25 @@ export default [
         "top": 63,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "eat",
                         "ipa": "iːt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "ate",
                         "ipa": "eɪt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "eaten",
                         "ipa": "ˈiːt(ə)n"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "eating",
                         "ipa": "ˈiːtɪŋ"
@@ -1447,25 +1447,25 @@ export default [
         "top": 30,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "fall",
                         "ipa": "fɔːl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "fell",
                         "ipa": "fɛl"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "fallen",
                         "ipa": "ˈfɔːlən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "falling",
                         "ipa": "ˈfɔːlɪŋ"
@@ -1488,25 +1488,25 @@ export default [
         "top": 104,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "feed",
                         "ipa": "ˈfiːd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "fed",
                         "ipa": "fɛd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "fed",
                         "ipa": "fɛd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "feeding",
                         "ipa": "ˈfiːdɪŋ"
@@ -1529,25 +1529,25 @@ export default [
         "top": 21,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "feel",
                         "ipa": "fiːl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "felt",
                         "ipa": "fɛlt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "felt",
                         "ipa": "fɛlt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "feeling",
                         "ipa": "ˈfiːlɪŋ"
@@ -1570,25 +1570,25 @@ export default [
         "top": 62,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "fight",
                         "ipa": "faɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "fought",
                         "ipa": "fɔːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "fought",
                         "ipa": "fɔːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "fighting",
                         "ipa": "ˈfaɪtɪŋ"
@@ -1611,25 +1611,25 @@ export default [
         "top": 16,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "find",
                         "ipa": "faɪnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "found",
                         "ipa": "faʊnd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "found",
                         "ipa": "faʊnd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "finding",
                         "ipa": "ˈfaɪndɪŋ"
@@ -1652,25 +1652,25 @@ export default [
         "top": 130,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "flee",
                         "ipa": "fliː"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "fled",
                         "ipa": "ˈflɛd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "fled",
                         "ipa": "ˈflɛd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "fleeing",
                         "ipa": "ˈfliːɪŋ"
@@ -1693,25 +1693,25 @@ export default [
         "top": 125,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "fling",
                         "ipa": "ˈflɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "flung",
                         "ipa": "ˈflʌŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "flung",
                         "ipa": "ˈflʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "flinging",
                         "ipa": "ˈflɪŋɪŋ"
@@ -1735,25 +1735,25 @@ export default [
         "top": 59,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "fly",
                         "ipa": "flaɪ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "flew",
                         "ipa": "fluː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "flown",
                         "ipa": "ˈfləʊn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "flying",
                         "ipa": "ˈflaɪ.ɪŋ"
@@ -1776,25 +1776,25 @@ export default [
         "top": 69,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "forget",
                         "ipa": "fəˈɡɛt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "forgot",
                         "ipa": "ˈfɔɹ.ɡɑt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "forgotten",
                         "ipa": "fɚˈɡɑt.n̩"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "forgetting",
                         "ipa": "fəˈgɛtɪŋ"
@@ -1817,25 +1817,25 @@ export default [
         "top": 128,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "forgive",
                         "ipa": "fə(r)ˈɡɪv"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "forgave",
                         "ipa": "fə(ɹ)ˈɡeɪv"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "forgiven",
                         "ipa": "fə(ɹ)ˈɡɪv.ən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "forgiving",
                         "ipa": "fə(r)ˈɡɪvɪŋ"
@@ -1858,25 +1858,25 @@ export default [
         "top": 83,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "freeze",
                         "ipa": "ˈfriːz"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "froze",
                         "ipa": "ˈfɹəʊz"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "frozen",
                         "ipa": "ˈfɹəʊzən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "freezing",
                         "ipa": "ˈfɹiːz.ɪŋ"
@@ -1899,19 +1899,19 @@ export default [
         "top": 6,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "get",
                         "ipa": "ɡɛt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "got",
                         "ipa": "ɡɒt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "got",
                         "ipa": "ɡɒt"
@@ -1921,7 +1921,7 @@ export default [
                         "ipa": "ˈɡɒt(ə)n"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "getting",
                         "ipa": "ˈɡɛtɪŋ"
@@ -1945,25 +1945,25 @@ export default [
         "top": 14,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "give",
                         "ipa": "ɡɪv"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "gave",
                         "ipa": "ɡeɪv"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "given",
                         "ipa": "ˈɡɪvən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "giving",
                         "ipa": "ˈɡɪvɪŋ"
@@ -1986,25 +1986,25 @@ export default [
         "top": 5,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "go",
                         "ipa": "ɡəʊ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "went",
                         "ipa": "wɛnt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "gone",
                         "ipa": "ɡɒn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "going",
                         "ipa": "ˈɡəʊɪŋ"
@@ -2028,25 +2028,25 @@ export default [
         "top": 132,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "grind",
                         "ipa": "ˈɡɹaɪnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "ground",
                         "ipa": "ɡɹaʊnd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "ground",
                         "ipa": "ɡɹaʊnd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "grinding",
                         "ipa": "ˈɡraɪndɪŋ"
@@ -2070,25 +2070,25 @@ export default [
         "top": 71,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "grow",
                         "ipa": "ɡɹəʊ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "grew",
                         "ipa": "ɡɹuː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "grown",
                         "ipa": "ˈɡɹɔʊn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "growing",
                         "ipa": "ˈɡɹoʊɪŋ"
@@ -2112,25 +2112,25 @@ export default [
         "top": 51,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hang",
                         "ipa": "hæŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "hung",
                         "ipa": "ˈhʌŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "hung",
                         "ipa": "ˈhʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "hanging",
                         "ipa": "ˈhæŋɪŋ"
@@ -2147,25 +2147,25 @@ export default [
                 ]
             },
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hang",
                         "ipa": "hæŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "hanged",
                         "ipa": "ˈhæŋɡd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "hanged",
                         "ipa": "ˈhæŋɡd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "hanging",
                         "ipa": "ˈhæŋɪŋ"
@@ -2188,25 +2188,25 @@ export default [
         "top": 2,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "have",
                         "ipa": "hæv"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "had",
                         "ipa": "hæd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "had",
                         "ipa": "hæd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "having",
                         "ipa": "ˈhæviŋ"
@@ -2229,25 +2229,25 @@ export default [
         "top": 17,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hear",
                         "ipa": "hɪə(ɹ)"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "heard",
                         "ipa": "ˈhɜːd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "heard",
                         "ipa": "ˈhɜːd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "hearing",
                         "ipa": "ˈhiɹ.ɪŋ"
@@ -2270,19 +2270,19 @@ export default [
         "top": 74,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hide",
                         "ipa": "haɪd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "hid",
                         "ipa": "hɪd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "hidden",
                         "ipa": "ˈhɪd(ə)n"
@@ -2292,7 +2292,7 @@ export default [
                         "ipa": "hɪd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "hiding",
                         "ipa": "ˈhaɪdɪŋ"
@@ -2315,25 +2315,25 @@ export default [
         "top": 50,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hit",
                         "ipa": "hɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "hit",
                         "ipa": "hɪt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "hit",
                         "ipa": "hɪt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "hitting",
                         "ipa": "ˈhɪtɪŋ"
@@ -2356,25 +2356,25 @@ export default [
         "top": 22,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hold",
                         "ipa": "həʊld"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "held",
                         "ipa": "ˈhɛld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "held",
                         "ipa": "ˈhɛld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "holding",
                         "ipa": "ˈhoːldɪŋ"
@@ -2397,25 +2397,25 @@ export default [
         "top": 78,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "hurt",
                         "ipa": "hɜːt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "hurt",
                         "ipa": "hɜːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "hurt",
                         "ipa": "hɜːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "hurting",
                         "ipa": "ˈhɜːtɪŋ"
@@ -2438,25 +2438,25 @@ export default [
         "top": 28,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "keep",
                         "ipa": "kiːp"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "kept",
                         "ipa": "ˈkɛpt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "kept",
                         "ipa": "ˈkɛpt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "keeping",
                         "ipa": "ˈkiːpɪŋ"
@@ -2479,13 +2479,13 @@ export default [
         "top": 111,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "kneel",
                         "ipa": "niːl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "knelt",
                         "ipa": "nɛlt"
@@ -2495,7 +2495,7 @@ export default [
                         "ipa": "niːld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "knelt",
                         "ipa": "nɛlt"
@@ -2505,7 +2505,7 @@ export default [
                         "ipa": "niːld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "kneeling",
                         "ipa": "ˈniːlɪŋ"
@@ -2528,25 +2528,25 @@ export default [
         "top": 7,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "know",
                         "ipa": "nəʊ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "knew",
                         "ipa": "ˈnjuː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "known",
                         "ipa": "nəʊn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "knowing",
                         "ipa": "ˈnoʊɪŋ"
@@ -2569,25 +2569,25 @@ export default [
         "top": 73,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "lay",
                         "ipa": "leɪ̯"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "laid",
                         "ipa": "leɪd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "laid",
                         "ipa": "leɪd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "laying",
                         "ipa": "ˈleɪɪŋ"
@@ -2610,25 +2610,25 @@ export default [
         "top": 54,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "lead",
                         "ipa": "lɛd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "led",
                         "ipa": "ˈlɛd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "led",
                         "ipa": "ˈlɛd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "leading",
                         "ipa": "ˈlɛdɪŋ"
@@ -2651,13 +2651,13 @@ export default [
         "top": 96,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "leap",
                         "ipa": "liːp"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "leapt",
                         "ipa": "lɛpt"
@@ -2667,7 +2667,7 @@ export default [
                         "ipa": "liːpt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "leapt",
                         "ipa": "lɛpt"
@@ -2677,7 +2677,7 @@ export default [
                         "ipa": "liːpt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "leaping",
                         "ipa": "ˈliːpɪŋ"
@@ -2700,13 +2700,13 @@ export default [
         "top": 81,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "learn",
                         "ipa": "lɜːn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "learnt",
                         "ipa": "ˈlɜːnt"
@@ -2716,7 +2716,7 @@ export default [
                         "ipa": "lɜːnd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "learnt",
                         "ipa": "ˈlɜːnt"
@@ -2726,7 +2726,7 @@ export default [
                         "ipa": "lɜːnd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "learning",
                         "ipa": "ˈlɝnɪŋ"
@@ -2749,25 +2749,25 @@ export default [
         "top": 18,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "leave",
                         "ipa": "liːv"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "left",
                         "ipa": "lɛft"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "left",
                         "ipa": "lɛft"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "leaving",
                         "ipa": "ˈliːvɪŋ"
@@ -2790,25 +2790,25 @@ export default [
         "top": 20,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "let",
                         "ipa": "lɛt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "let",
                         "ipa": "lɛt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "let",
                         "ipa": "lɛt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "letting",
                         "ipa": "ˈlɛtɪŋ"
@@ -2831,25 +2831,25 @@ export default [
         "top": 47,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "lie",
                         "ipa": "laɪ̯"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "lay",
                         "ipa": "leɪ̯"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "lain",
                         "ipa": "leɪn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "lying",
                         "ipa": "ˈlaɪ.ɪŋ"
@@ -2866,25 +2866,25 @@ export default [
                 ]
             },
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "lie",
                         "ipa": "laɪ̯"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "lied",
                         "ipa": "liːd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "lied",
                         "ipa": "liːd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "lying",
                         "ipa": "ˈlaɪ.ɪŋ"
@@ -2907,13 +2907,13 @@ export default [
         "top": 24,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "light",
                         "ipa": "laɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "lit",
                         "ipa": "ˈlɪt"
@@ -2923,7 +2923,7 @@ export default [
                         "ipa": "ˈlaɪtəd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "lit",
                         "ipa": "ˈlɪt"
@@ -2933,7 +2933,7 @@ export default [
                         "ipa": "ˈlaɪtəd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "lighting",
                         "ipa": "ˈlaɪtɪŋ"
@@ -2956,25 +2956,25 @@ export default [
         "top": 46,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "lose",
                         "ipa": "luːz"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "lost",
                         "ipa": "lɒst"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "lost",
                         "ipa": "lɒst"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "losing",
                         "ipa": "ˈluːzɪŋ"
@@ -2997,25 +2997,25 @@ export default [
         "top": 12,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "make",
                         "ipa": "meɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "made",
                         "ipa": "meɪ̯d"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "made",
                         "ipa": "meɪ̯d"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "making",
                         "ipa": "ˈmeɪkɪŋ"
@@ -3038,25 +3038,25 @@ export default [
         "top": 27,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "mean",
                         "ipa": "miːn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "meant",
                         "ipa": "ˈmɛnt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "meant",
                         "ipa": "ˈmɛnt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "meaning",
                         "ipa": "ˈmiːnɪŋ"
@@ -3079,25 +3079,25 @@ export default [
         "top": 34,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "meet",
                         "ipa": "miːt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "met",
                         "ipa": "mɛt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "met",
                         "ipa": "mɛt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "meeting",
                         "ipa": "ˈmiːtɪŋ"
@@ -3120,25 +3120,25 @@ export default [
         "top": 103,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "mistake",
                         "ipa": "mɪˈsteɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "mistook",
                         "ipa": "mɪsˈtʊk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "mistaken",
                         "ipa": "mɪsˈteɪkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "mistaking",
                         "ipa": "mɪsˈteɪkɪŋ"
@@ -3161,25 +3161,25 @@ export default [
         "top": 58,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "pay",
                         "ipa": "peɪ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "paid",
                         "ipa": "ˈpeɪd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "paid",
                         "ipa": "ˈpeɪd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "paying",
                         "ipa": "ˈpeɪ.ɪŋ"
@@ -3202,25 +3202,25 @@ export default [
         "top": 25,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "put",
                         "ipa": "pʊt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "put",
                         "ipa": "pʊt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "put",
                         "ipa": "pʊt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "putting",
                         "ipa": "ˈpʰʊtɪŋ"
@@ -3243,25 +3243,25 @@ export default [
         "top": 42,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "read",
                         "ipa": "ɹiːd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "read",
                         "ipa": "ɹɛd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "read",
                         "ipa": "ɹɛd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "reading",
                         "ipa": "ˈɹiːdɪŋ"
@@ -3284,25 +3284,25 @@ export default [
         "top": 131,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "rid",
                         "ipa": "ˈrɪd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "rid",
                         "ipa": "ˈrɪd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "rid",
                         "ipa": "ˈrɪd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "ridding",
                         "ipa": "ˈrɪdɪŋ"
@@ -3325,25 +3325,25 @@ export default [
         "top": 80,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "ride",
                         "ipa": "ɹaɪd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "rode",
                         "ipa": "ˈɹəʊd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "ridden",
                         "ipa": "ˈɹɪdn̩"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "riding",
                         "ipa": "ˈɹaɪdɪŋ"
@@ -3366,25 +3366,25 @@ export default [
         "top": 61,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "ring",
                         "ipa": "ɹɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "rang",
                         "ipa": "ɹæŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "rung",
                         "ipa": "ɹʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "ringing",
                         "ipa": "ˈɹɪŋɪŋ"
@@ -3407,25 +3407,25 @@ export default [
         "top": 48,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "rise",
                         "ipa": "raɪz"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "rose",
                         "ipa": "ɹəʊz"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "risen",
                         "ipa": "ˈɹɪzən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "rising",
                         "ipa": "ˈraɪzɪŋ"
@@ -3448,25 +3448,25 @@ export default [
         "top": 23,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "run",
                         "ipa": "ɹʌn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "ran",
                         "ipa": "ɹæn"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "run",
                         "ipa": "ɹʌn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "running",
                         "ipa": "ˈɹʌnɪŋ"
@@ -3489,25 +3489,25 @@ export default [
         "top": 4,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "say",
                         "ipa": "seɪ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "said",
                         "ipa": "sɛd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "said",
                         "ipa": "sɛd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "saying",
                         "ipa": "ˈseɪɪŋ"
@@ -3530,25 +3530,25 @@ export default [
         "top": 8,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "see",
                         "ipa": "siː"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "saw",
                         "ipa": "sɔː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "seen",
                         "ipa": "siːn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "seeing",
                         "ipa": "ˈsiːɪŋ"
@@ -3571,25 +3571,25 @@ export default [
         "top": 121,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "seek",
                         "ipa": "siːk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sought",
                         "ipa": "sɔːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sought",
                         "ipa": "sɔːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "seeking",
                         "ipa": "siːkɪŋ"
@@ -3612,25 +3612,25 @@ export default [
         "top": 95,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sell",
                         "ipa": "sɛl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sold",
                         "ipa": "ˈsəʊld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sold",
                         "ipa": "ˈsəʊld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "selling",
                         "ipa": "ˈselɪŋ"
@@ -3653,25 +3653,25 @@ export default [
         "top": 57,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "send",
                         "ipa": "ˈsɛnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sent",
                         "ipa": "sɛn̩t"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sent",
                         "ipa": "sɛn̩t"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sending",
                         "ipa": "ˈsɛndɪŋ"
@@ -3694,25 +3694,25 @@ export default [
         "top": 41,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "set",
                         "ipa": "sɛt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "set",
                         "ipa": "sɛt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "set",
                         "ipa": "sɛt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "setting",
                         "ipa": "ˈsɛtɪŋ"
@@ -3735,25 +3735,25 @@ export default [
         "top": 32,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "shake",
                         "ipa": "ˈʃeɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "shook",
                         "ipa": "ʃʊk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shaken",
                         "ipa": "ˈʃeɪkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "shaking",
                         "ipa": "ˈʃeɪkɪŋ"
@@ -3776,19 +3776,19 @@ export default [
         "top": 126,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "shave",
                         "ipa": "ʃeɪv"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "shaved",
                         "ipa": "ʃeɪvd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shaved",
                         "ipa": "ʃeɪvd"
@@ -3798,7 +3798,7 @@ export default [
                         "ipa": "ˈʃeɪv(ə)n"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "shaving",
                         "ipa": "ˈʃeɪvɪŋ"
@@ -3821,25 +3821,25 @@ export default [
         "top": 108,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "shine",
                         "ipa": "ʃaɪn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "shone",
                         "ipa": "ʃɒn"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shone",
                         "ipa": "ʃɒn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "shining",
                         "ipa": "ˈʃaɪnɪŋ"
@@ -3856,25 +3856,25 @@ export default [
                 ]
             },
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "shine",
                         "ipa": "ʃaɪn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "shined",
                         "ipa": "ˈʃaɪnd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shined",
                         "ipa": "ˈʃaɪnd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "shining",
                         "ipa": "ˈʃaɪnɪŋ"
@@ -3897,25 +3897,25 @@ export default [
         "top": 43,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "shoot",
                         "ipa": "ʃuːt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "shot",
                         "ipa": "ʃɒt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shot",
                         "ipa": "ʃɒt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "shooting",
                         "ipa": "ˈʃuːtɪŋ"
@@ -3938,19 +3938,19 @@ export default [
         "top": 31,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "show",
                         "ipa": "ʃəʊ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "showed",
                         "ipa": "ˈʃoʊ̪d"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shown",
                         "ipa": "ˈʃoʊ̪n"
@@ -3960,7 +3960,7 @@ export default [
                         "ipa": "ˈʃoʊ̪d"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "showing",
                         "ipa": "ˈʃəʊɪŋ"
@@ -3983,25 +3983,25 @@ export default [
         "top": 65,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "shut",
                         "ipa": "ʃʌt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "shut",
                         "ipa": "ʃʌt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "shut",
                         "ipa": "ʃʌt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "shutting",
                         "ipa": "ˈʃʌtɪŋ"
@@ -4024,25 +4024,25 @@ export default [
         "top": 92,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sing",
                         "ipa": "sɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sang",
                         "ipa": "sæŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sung",
                         "ipa": "sʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "singing",
                         "ipa": "ˈsɪŋɪŋ"
@@ -4065,25 +4065,25 @@ export default [
         "top": 93,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sink",
                         "ipa": "sɪŋk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sank",
                         "ipa": "sæŋk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sunk",
                         "ipa": "sʌŋk"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sinking",
                         "ipa": "ˈsɪŋkɪŋ"
@@ -4106,25 +4106,25 @@ export default [
         "top": 19,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sit",
                         "ipa": "sɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sat",
                         "ipa": "sæt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sat",
                         "ipa": "sæt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sitting",
                         "ipa": "ˈsɪtɪŋ"
@@ -4147,25 +4147,25 @@ export default [
         "top": 56,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sleep",
                         "ipa": "sliːp"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "slept",
                         "ipa": "slɛpt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "slept",
                         "ipa": "slɛpt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sleeping",
                         "ipa": "ˈsliːpɪŋ"
@@ -4188,25 +4188,25 @@ export default [
         "top": 76,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "slide",
                         "ipa": "slaɪd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "slid",
                         "ipa": "ˈslɪd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "slid",
                         "ipa": "ˈslɪd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sliding",
                         "ipa": "ˈslaɪdɪŋ"
@@ -4229,13 +4229,13 @@ export default [
         "top": 84,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "smell",
                         "ipa": "smɛl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "smelt",
                         "ipa": "ˈsmɛlt"
@@ -4245,7 +4245,7 @@ export default [
                         "ipa": "ˈsmɛld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "smelt",
                         "ipa": "ˈsmɛlt"
@@ -4255,7 +4255,7 @@ export default [
                         "ipa": "ˈsmɛld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "smelling",
                         "ipa": "ˈsmɛlɪŋ"
@@ -4278,25 +4278,25 @@ export default [
         "top": 35,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "speak",
                         "ipa": "spiːk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spoke",
                         "ipa": "spəʊk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spoken",
                         "ipa": "ˈspoʊkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "speaking",
                         "ipa": "ˈspiːˌkiŋ"
@@ -4319,13 +4319,13 @@ export default [
         "top": 87,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "speed",
                         "ipa": "spiːd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sped",
                         "ipa": "spɛd"
@@ -4335,7 +4335,7 @@ export default [
                         "ipa": "ˈspiːdəd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sped",
                         "ipa": "spɛd"
@@ -4345,7 +4345,7 @@ export default [
                         "ipa": "ˈspiːdəd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "speeding",
                         "ipa": "ˈspiːdɪŋ"
@@ -4368,13 +4368,13 @@ export default [
         "top": 129,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spell",
                         "ipa": "spɛl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spelt",
                         "ipa": "ˈspɛlt"
@@ -4384,7 +4384,7 @@ export default [
                         "ipa": "ˈspɛld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spelt",
                         "ipa": "ˈspɛlt"
@@ -4394,7 +4394,7 @@ export default [
                         "ipa": "ˈspɛld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "spelling",
                         "ipa": "ˈspɛlɪŋ"
@@ -4417,25 +4417,25 @@ export default [
         "top": 85,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spend",
                         "ipa": "spɛnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spent",
                         "ipa": "ˈspɛnt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spent",
                         "ipa": "ˈspɛnt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "spending",
                         "ipa": "ˈspendɪŋ"
@@ -4458,13 +4458,13 @@ export default [
         "top": 116,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spill",
                         "ipa": "spɪl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spilt",
                         "ipa": "spɪlt"
@@ -4474,7 +4474,7 @@ export default [
                         "ipa": "spɪld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spilt",
                         "ipa": "spɪlt"
@@ -4484,7 +4484,7 @@ export default [
                         "ipa": "spɪld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "spilling",
                         "ipa": "ˈspɪtliŋk"
@@ -4507,13 +4507,13 @@ export default [
         "top": 89,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spin",
                         "ipa": "spɪn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spun",
                         "ipa": "ˈspʌn"
@@ -4523,13 +4523,13 @@ export default [
                         "ipa": "spæn"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spun",
                         "ipa": "ˈspʌn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "spinning",
                         "ipa": "ˈspɪnɪŋ"
@@ -4552,25 +4552,25 @@ export default [
         "top": 115,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spit",
                         "ipa": "ˈspɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spat",
                         "ipa": "spæt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spat",
                         "ipa": "spæt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "spitting",
                         "ipa": "ˈspɪtɪŋ"
@@ -4593,25 +4593,25 @@ export default [
         "top": 113,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "split",
                         "ipa": "splɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "split",
                         "ipa": "splɪt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "split",
                         "ipa": "splɪt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "splitting",
                         "ipa": "ˈsplɪtɪŋ"
@@ -4634,25 +4634,25 @@ export default [
         "top": 98,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spread",
                         "ipa": "spɹɛd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "spread",
                         "ipa": "spɹɛd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "spread",
                         "ipa": "spɹɛd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "spreading",
                         "ipa": "ˈspɹɛdɪŋ"
@@ -4675,25 +4675,25 @@ export default [
         "top": 106,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "spring",
                         "ipa": "spɹɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "sprang",
                         "ipa": "spɹæŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sprung",
                         "ipa": "ˈsprʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "springing",
                         "ipa": "ˈsprɪŋɪŋ"
@@ -4716,25 +4716,25 @@ export default [
         "top": 15,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "stand",
                         "ipa": "stænd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "stood",
                         "ipa": "stʊd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "stood",
                         "ipa": "stʊd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "standing",
                         "ipa": "ˈstændɪŋ"
@@ -4757,25 +4757,25 @@ export default [
         "top": 99,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "steal",
                         "ipa": "stiːl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "stole",
                         "ipa": "ˈstoʊl"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "stolen",
                         "ipa": "ˈstəʊlən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "stealing",
                         "ipa": "ˈstiːlɪŋ"
@@ -4798,25 +4798,25 @@ export default [
         "top": 70,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "stick",
                         "ipa": "stɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "stuck",
                         "ipa": "ˈstʌk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "stuck",
                         "ipa": "ˈstʌk"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sticking",
                         "ipa": "ˈstɪkɪŋ"
@@ -4839,25 +4839,25 @@ export default [
         "top": 135,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sting",
                         "ipa": "ˈstɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "stung",
                         "ipa": "stʌŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "stung",
                         "ipa": "stʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "stinging",
                         "ipa": "ˈstɪŋɪŋ"
@@ -4880,25 +4880,25 @@ export default [
         "top": 117,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "stride",
                         "ipa": "straɪd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "strode",
                         "ipa": "ˈstɹoʊd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "stridden",
                         "ipa": "ˈstɹɪdən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "striding",
                         "ipa": "ˈstraɪdɪŋ"
@@ -4921,25 +4921,25 @@ export default [
         "top": 86,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "strike",
                         "ipa": "stɹaɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "struck",
                         "ipa": "ˈstɹʌk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "struck",
                         "ipa": "ˈstɹʌk"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "striking",
                         "ipa": "ˈstɹaɪkɪŋ"
@@ -4962,25 +4962,25 @@ export default [
         "top": 109,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "swear",
                         "ipa": "ˈswɛɚ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "swore",
                         "ipa": "swɔɹ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "sworn",
                         "ipa": "swɔɹn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "swearing",
                         "ipa": "ˈsweərɪŋ"
@@ -5003,25 +5003,25 @@ export default [
         "top": 101,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "sweep",
                         "ipa": "swiːp"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "swept",
                         "ipa": "ˈswɛpt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "swept",
                         "ipa": "ˈswɛpt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "sweeping",
                         "ipa": "ˈswiːpɪŋ"
@@ -5044,25 +5044,25 @@ export default [
         "top": 123,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "swell",
                         "ipa": "swɛl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "swelled",
                         "ipa": "ˈswɛld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "swollen",
                         "ipa": "ˈswəʊlən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "swelling",
                         "ipa": "ˈswɛl.ɪŋ"
@@ -5085,25 +5085,25 @@ export default [
         "top": 110,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "swim",
                         "ipa": "swɪm"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "swam",
                         "ipa": "swæm"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "swum",
                         "ipa": "swʌm"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "swimming",
                         "ipa": "ˈswɪmɪŋ"
@@ -5126,25 +5126,25 @@ export default [
         "top": 77,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "swing",
                         "ipa": "ˈswɪŋ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "swung",
                         "ipa": "ˈswʌŋ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "swung",
                         "ipa": "ˈswʌŋ"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "swinging",
                         "ipa": "ˈswɪŋɪŋ"
@@ -5167,25 +5167,25 @@ export default [
         "top": 11,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "take",
                         "ipa": "teɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "took",
                         "ipa": "tʊk"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "taken",
                         "ipa": "ˈteɪkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "taking",
                         "ipa": "ˈteɪkɪŋ"
@@ -5208,25 +5208,25 @@ export default [
         "top": 105,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "teach",
                         "ipa": "tiːtʃ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "taught",
                         "ipa": "tɔːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "taught",
                         "ipa": "tɔːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "teaching",
                         "ipa": "ˈtiːtʃɪŋ"
@@ -5249,25 +5249,25 @@ export default [
         "top": 64,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "tear",
                         "ipa": "tɛə"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "tore",
                         "ipa": "tɔː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "torn",
                         "ipa": "tɔːn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "tearing",
                         "ipa": "ˈteərɪŋ"
@@ -5290,25 +5290,25 @@ export default [
         "top": 13,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "tell",
                         "ipa": "tɛl"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "told",
                         "ipa": "təʊld"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "told",
                         "ipa": "təʊld"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "telling",
                         "ipa": "ˈtɛlɪŋ"
@@ -5331,25 +5331,25 @@ export default [
         "top": 10,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "think",
                         "ipa": "θɪŋk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "thought",
                         "ipa": "θɔːt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "thought",
                         "ipa": "θɔːt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "thinking",
                         "ipa": "ˈθɪŋkɪŋ"
@@ -5372,25 +5372,25 @@ export default [
         "top": 53,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "throw",
                         "ipa": "θɹəʊ"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "threw",
                         "ipa": "θɹuː"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "thrown",
                         "ipa": "θrəʊn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "throwing",
                         "ipa": "ˈθrəʊɪŋ"
@@ -5413,25 +5413,25 @@ export default [
         "top": 124,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "thrust",
                         "ipa": "θɹʌst"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "thrust",
                         "ipa": "θɹʌst"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "thrust",
                         "ipa": "θɹʌst"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "thrusting",
                         "ipa": "ˈθrʌstɪŋ"
@@ -5454,25 +5454,25 @@ export default [
         "top": 45,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "understand",
                         "ipa": "ˌʌndəˈstænd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "understood",
                         "ipa": "ʌndəɹˈstʊd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "understood",
                         "ipa": "ʌndəɹˈstʊd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "understanding",
                         "ipa": "ʌndəˈstandɪŋ"
@@ -5495,25 +5495,25 @@ export default [
         "top": 119,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "upset",
                         "ipa": "ˈʌpsɛt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "upset",
                         "ipa": "ˈʌpsɛt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "upset",
                         "ipa": "ˈʌpsɛt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "upsetting",
                         "ipa": "ʌpˈsetɪŋ"
@@ -5536,13 +5536,13 @@ export default [
         "top": 90,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "wake",
                         "ipa": "ˈweɪk"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "woke",
                         "ipa": "wəʊk"
@@ -5552,13 +5552,13 @@ export default [
                         "ipa": "ˈweɪkt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "woken",
                         "ipa": "ˈwoʊkən"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "waking",
                         "ipa": "ˈweɪkɪŋ"
@@ -5581,25 +5581,25 @@ export default [
         "top": 49,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "wear",
                         "ipa": "wɛə"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "wore",
                         "ipa": "wɔɹ"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "worn",
                         "ipa": "wɔɹn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "wearing",
                         "ipa": "ˈweərɪŋ"
@@ -5622,25 +5622,25 @@ export default [
         "top": 133,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "weep",
                         "ipa": "wiːp"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "wept",
                         "ipa": "ˈwɛpt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "wept",
                         "ipa": "ˈwɛpt"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "weeping",
                         "ipa": "ˈwiːpɪŋ"
@@ -5663,25 +5663,25 @@ export default [
         "top": 36,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "win",
                         "ipa": "wɪn"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "won",
                         "ipa": "wʌn"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "won",
                         "ipa": "wʌn"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "winning",
                         "ipa": "ˈwɪnɪŋ"
@@ -5704,25 +5704,25 @@ export default [
         "top": 68,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "wind",
                         "ipa": "ˈwɪnd"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "wound",
                         "ipa": "wuːnd"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "wound",
                         "ipa": "wuːnd"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "winding",
                         "ipa": "ˈwaɪndɪŋ"
@@ -5745,25 +5745,25 @@ export default [
         "top": 67,
         "meanings": [
             {
-                "form1": [
+                "infinitive": [
                     {
                         "text": "write",
                         "ipa": "ɹaɪt"
                     }
                 ],
-                "form2": [
+                "past_simple": [
                     {
                         "text": "wrote",
                         "ipa": "ɹəʊt"
                     }
                 ],
-                "form3": [
+                "past_participle": [
                     {
                         "text": "written",
                         "ipa": "ˈrɪtn̩"
                     }
                 ],
-                "form4": [
+                "ing": [
                     {
                         "text": "writing",
                         "ipa": "ˈɹaɪtɪŋ"
