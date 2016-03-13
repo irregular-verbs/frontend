@@ -51,7 +51,7 @@ export default React.createClass({
         const {word} = this.props
         return this.renderField('Translation',
             word.meanings.map(meaning => meaning.translation).map((wordForm, i) => (
-                h("div.word-modal__word-form", {key:i},
+                h("div.word-modal__translation", {key:i},
                     h("div.word-modal__variant-list",
                         wordForm.map(variant => (
                             h(`div.word-modal__variant`, {key: variant}, variant)

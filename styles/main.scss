@@ -42,6 +42,9 @@ html {
         padding: 1rem 0.75rem;
     }
 
+    &__cell-top {
+        text-align: center;
+    }
 
 }
 
@@ -65,6 +68,7 @@ html {
 }
 
 .word-modal {
+    $this: #{&};
     display: table;
     flex-direction: column;
 
@@ -91,7 +95,7 @@ html {
         justify-content: space-around;
     }
 
-    &__word-form {
+    &__word-form, &__translation {
         margin: 0.5rem;
         display: flex;
         flex-direction: column;
@@ -101,6 +105,7 @@ html {
             color: #A56D00;
         }
     }
+
 
     &__variant-list {
         display: flex;
@@ -113,6 +118,17 @@ html {
 
         &:not(:first-child) {
             margin-left: 3rem;
+        }
+    }
+
+    &__translation {
+        #{$this}__variant-list {
+            flex-direction: column;
+        }
+
+        #{$this}__variant:not(:first-child) {
+            margin-left: 0rem;
+            margin-top: 0.5rem;
         }
     }
 

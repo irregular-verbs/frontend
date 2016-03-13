@@ -1,3 +1,8 @@
+"use strict"
+require("babel-polyfill");
+require("babel-register")({
+    presets: ["babel-preset-es2015"]
+})
 /**
  * --------------------------------------------------------------------
  * Copyright 2015 Nikolay Mavrenkov
@@ -18,7 +23,6 @@
  * Author:  Nikolay Mavrenkov <koluch@koluch.ru>
  * Created: 03.11.2015 22:56
  */
-
 var gulp = require('gulp'),
     gutil = require('gulp-util'),
     sass = require('gulp-sass'),
@@ -139,7 +143,32 @@ gulp.task('styles', function(){
         .pipe(gulp.dest(PROD_ROOT + '/styles'))
 })
 
-gulp.task('default', ['static', 'scripts_vendor', 'scripts', 'styles'])
+gulp.task('generate_static', function(){
+    var renderState = require('./scripts/static-render').renderState;
+    var WordList = require('./scripts/components/WordList').default
+    var data = require('./scripts/data').default
+
+    function* generator(data) {
+        for(let word of data) {
+            var props = {
+                initialState: {
+                    currentWordId: word.id
+                },
+                data
+            };
+            var fileName = PROD_ROOT + "/" + word.id + ".html";
+            yield {
+                props,
+                fileName
+            }
+        }
+    }
+
+    renderState(WordList, generator(data), './static/index.html')
+})
+
+
+gulp.task('default', ['static', 'scripts_vendor', 'scripts', 'styles', 'generate_static'])
 
 
 //***************** Debug *****************
@@ -298,4 +327,29 @@ gulp.task('debug_serve', serve({
     port:DEBUG_PORT,
 }))
 
-gulp.task('debug', ['debug_static', 'debug_styles', 'debug_scripts_vendor', 'debug_scripts', 'debug_serve']);
+gulp.task('debug_generate_static', function(){
+    var renderState = require('./scripts/static-render').renderState;
+    var WordList = require('./scripts/components/WordList').default
+    var data = require('./scripts/data').default
+
+    function* generator(data) {
+        for(let word of data) {
+            var props = {
+                initialState: {
+                    currentWordId: word.id
+                },
+                data
+            };
+
+            var fileName = DEBUG_ROOT + "/" + word.id + ".html";
+            yield {
+                props,
+                fileName
+            }
+        }
+    }
+
+    renderState(WordList, generator(data), './static/index.html')
+})
+
+gulp.task('debug', ['debug_static', 'debug_styles', 'debug_scripts_vendor', 'debug_scripts', 'debug_serve', 'debug_generate_static']);

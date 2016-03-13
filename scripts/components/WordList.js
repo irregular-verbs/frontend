@@ -115,11 +115,11 @@ export default React.createClass({
                             onClick: () => this.onWordClick(row.id),
                             className: "word-list__row" + (i % 2 == 0 ? " word-list__row--even" : " word-list__row--odd")
                         },
-                            h("div.word-list__cell.word__top", j === 0 ? row.top : ""),
-                            h("div.word-list__cell.word__infinitive", j === 0 ? this.renderWordForm(meaning.infinitive) : ""),
-                            h("div.word-list__cell.word__past-simple", this.renderWordForm(meaning.past_simple)),
-                            h("div.word-list__cell.word__past-participle", this.renderWordForm(meaning.past_participle)),
-                            h("div.word-list__cell.word__translation",  this.renderTranslation(meaning.translation))
+`                            h("div.word-list__cell.word-list__cell-top", j === 0 ? row.top : ""),
+                            h("div.word-list__cell.word-list__cell-infinitive", j === 0 ? this.renderWordForm(meaning.infinitive) : ""),
+                            h("div.word-list__cell.word-list__cell-past-simple", this.renderWordForm(meaning.past_simple)),
+                            h("div.word-list__cell.word-list__cell-past-participle", this.renderWordForm(meaning.past_participle)),
+                            h("div.word-list__cell.word-list__cell-translation",  this.renderTranslation(meaning.translation))
                         )
                 ))))
             )
