@@ -23,6 +23,7 @@ var gulp = require('gulp'),
     gutil = require('gulp-util'),
     sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
+    cleanCSS = require('gulp-clean-css'),
     streamify = require('gulp-streamify'),
     uglify = require('gulp-uglify'),
     rename = require('gulp-rename'),
@@ -134,6 +135,7 @@ gulp.task('styles', function(){
     return gulp.src(files)
         .pipe(sass().on('error', sass.logError))
         .pipe(autoprefixer({browsers: ['last 2 versions']}))
+        .pipe(cleanCSS())
         .pipe(gulp.dest(PROD_ROOT + '/styles'))
 })
 
