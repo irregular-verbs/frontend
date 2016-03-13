@@ -11,6 +11,9 @@ import {h} from 'react-markup'
 
 import WordPopup from './WordPopup'
 
+//todo: move to helpers
+const flatten = (arrays) => arrays.reduce((acc,x) => {x.forEach(y => acc.push(y)); return acc}, [])
+
 export default React.createClass({
 
     getInitialState: function() {
@@ -31,6 +34,12 @@ export default React.createClass({
     renderWordForm: function(data) {
         return h("div.word-list__word-form", data.map(variant => (
             h(`div.word-list__form-variant`, {key:variant.text}, variant.text)
+        )))
+    },
+
+    renderTranslation: function(data) {
+        return h("div.word-list__word-form", data.map(variant => (
+            h(`div.word-list__form-variant`, {key:variant}, variant)
         )))
     },
 
@@ -97,25 +106,22 @@ export default React.createClass({
                     this.renderHeaderTitle('form1', "Form 1"),
                     this.renderHeaderTitle('form2', "Form 2"),
                     this.renderHeaderTitle('form3', "Form 3"),
-                    this.renderHeaderTitle('form4', "Form 4"),
-                    this.renderHeaderTitle('sform', "S-form"),
                     this.renderHeaderTitle('translation', "Translation")
                 ),
-                sortedData.map(row => (
-                    h(`div`, {
-                        key: row.id,
-                        onClick: () => this.onWordClick(row.id),
-                        className: "word-list__row" + (row.id === currentWordId ? " selected" : "")
-                    },
-                        h("div.word-list__cell.word__top", row.top),
-                        h("div.word-list__cell.word__form1", this.renderWordForm(row.form1)),
-                        h("div.word-list__cell.word__form2", this.renderWordForm(row.form2)),
-                        h("div.word-list__cell.word__form3", this.renderWordForm(row.form3)),
-                        h("div.word-list__cell.word__form4", this.renderWordForm(row.form4)),
-                        h("div.word-list__cell.word__sform", this.renderWordForm(row.sform)),
-                        h("div.word-list__cell.word__translation", row.translation)
-                    )
-                ))
+                flatten(sortedData.map((row,i) =>
+                    row.meanings.map( (meaning,j) => (
+                        h(`div`, {
+                            key: row.id + "," + j,
+                            onClick: () => this.onWordClick(row.id),
+                            className: "word-list__row" + (i % 2 == 0 ? " word-list__row--even" : " word-list__row--odd")
+                        },
+                            h("div.word-list__cell.word__top", j === 0 ? row.top : ""),
+                            h("div.word-list__cell.word__form1", j === 0 ? this.renderWordForm(meaning.form1) : ""),
+                            h("div.word-list__cell.word__form2", this.renderWordForm(meaning.form2)),
+                            h("div.word-list__cell.word__form3", this.renderWordForm(meaning.form3)),
+                            h("div.word-list__cell.word__translation",  this.renderTranslation(meaning.translation))
+                        )
+                ))))
             )
         )
     }

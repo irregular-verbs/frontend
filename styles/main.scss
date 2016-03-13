@@ -28,8 +28,10 @@ html {
         }
     }
 
-    &__row:nth-child(odd) {
-        background: #F7F7F7;
+    &__row {
+        &--odd {
+            background: #F7F7F7;
+        }
     }
 
 
@@ -84,8 +86,28 @@ html {
         }
     }
 
+    &__word-form-list {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    &__word-form {
+        margin: 0.5rem;
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        align-items: center;
+    }
+
+    &__variant-list {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+    }
+
     &__value {
     }
+
 }
 
 
